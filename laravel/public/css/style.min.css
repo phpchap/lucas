@@ -52,7 +52,7 @@ p, li, span
 
 ul
 {
-    list-style: none;
+/*    list-style: none;*/
     margin: 0;
     padding: 0;
 }
@@ -141,7 +141,7 @@ ul
     padding: 15px 0 9px 0;
     margin: 20px 20px 26px 20px;
     font-size: 23px;
-    font-size: 2.3rem;
+    font-size: 1.1rem;
     font-weight: 400;
     border-bottom: solid transparent 2px;
     text-shadow: 0px 1px 2px rgba(0, 0, 0, 0.5);

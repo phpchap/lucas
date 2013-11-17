@@ -36,7 +36,7 @@ $(function() {
 		map: map,
 		icon: companyImage,
 		shadow: companyShadow,
-		title:"Ember",
+		title:"The Diamond Trading HQ",
 		zIndex: 3});
 
 	google.maps.event.addListener(companyMarker, 'click', function() {
