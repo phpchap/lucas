@@ -293,7 +293,7 @@
 
                                     <blockquote>
                                         <p>"Yellow diamonds have become incredibly popular. Luxury consumers' appetite for all colored diamonds, as well as the soaring price of white diamonds, has given yellow gems a boost.  While white diamonds have long been the first port of call for jewelery shoppers"</p>
-                                        <small>Respected Jewellery historian <cite title="Vivienne Becker">Vivienne Becker</cite></small>
+                                        <small><cite title="Katharina Flohr">Katharina Flohr</cite>, creative director of Russian jeweler Fabergé.</small>
                                     </blockquote>                                    
                                 </div>                                    
                                     <p></p>
