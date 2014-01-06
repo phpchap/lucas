@@ -60,6 +60,7 @@ ul
 
 #logo
 {
+    font-size: 24.5px;
     color: #ffd675;
     line-height: 60px;
     font-weight: 300;
@@ -83,7 +84,11 @@ ul
 #header .navbar
 {
     margin-bottom: 10px;
-    background: none;
+    background-color: #888;
+    background-color: rgba(0, 0, 0, 0.8);
+        -moz-transition: all 600ms;
+        -webkit-transition: all 600ms;
+        -o-transition: all 600ms;
     filter: none;
         -moz-transition: all 600ms;
         -webkit-transition: all 600ms;

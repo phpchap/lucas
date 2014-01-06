@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>The Diamond Exchange</title>
+        <title>The London Diamond Exchange</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta name="description" content="Diamond Investment" />
         <meta name="author" content="Diamond Investment" />
@@ -41,7 +41,7 @@
                                 </a>
 
                                 <a class="brand" href="javascript:void(0)">
-                                    <h1 id="logo">DIAMOND EXCHANGE</h1>
+                                    <h1 id="logo">The London Diamond Exchange</h1>
                                 </a>
 
                                 <div class="nav-collapse collapse">
@@ -68,7 +68,7 @@
                     <div class="row-fluid">
                         <div class="span12">
                             <hgroup id="intro" style="display: none">
-                                <h2>The Diamond Exchange</h2>
+                                <h2>The The London Diamond Exchange</h2>
                                 <h3>Guide to Investing in Natural Pink and Yellow Diamonds</h3>
                             </hgroup>
                         </div>
@@ -94,21 +94,21 @@
                                 <div class="span6">
                                     <p>Production at Rio Tinto's Argyle mine in Western Australia's Kimberley region will soon come to an end as its rare deposits of pink diamonds reach exhaustion</p>
                                     <p>The mine, which accounts for over 90% of the global supply of pink diamonds, will be largely depleted by 2018.</p>
-                                    <p>In 2010, from more than 25 million carats of rough diamonds mined from the Argyle mines, fewer than 10,000 carats were pink diamonds and of these only 10% were over 0.20 carats.  All of the pink diamonds produced by the Arglye mine in an average year would fit inside a single champagne flute</p> 
+                                    <p>In 2010, from more than 25 million carats of rough diamonds mined from the Argyle mines, fewer than 10,000 carats were pink diamonds and of these only 10% were over 0.20 carats.  All of the pink diamonds produced by the Arglye mine in an average year would fit inside a single champagne flute!</p> 
                                 </div>
                                 <div class="span6">
                                     <img class="img-polaroid" src="/img/argyle-diamond-mine.jpg" title="Argyle Diamond Mine, Kimberly, Western Australia" alt="Argyle Diamond Mine, Kimberly, Western Australia" />
                                     <p style="text-align: center">Aerial view of the Argyle mine, Kimberley, Western Australia</p>
                                 </div>
                             </div>                            
-                            <hr class="line" />
+
                             <div class="row-fluid">
                                 <div class="span2">
                                     <img class="img-polaroid" src="/img/vivienne-becker.jpg" title="Vivienne Becker, Respected Jewellery Historian" alt="Vivienne Becker, Respected Jewellery Historian" />                                                                        
                                 </div>
                                 <div class="span10">
                                     <blockquote>
-                                        <p>Pink Diamonds are a delightful freak of nature, whose peculiar hue and scarcity draw a hefty premium from high-end consumers, and that in future they will emerge as the new Fabergé egg, the thing jewellery myths are made of.  The value of rarity is the most priceless factor…in the world of jewellery today and as supply tightens, prices will be driven up.</p>
+                                        <p style="font-style: italic">"Pink Diamonds are a delightful freak of nature, whose peculiar hue and scarcity draw a hefty premium from high-end consumers, and that in future they will emerge as the new Fabergé egg, the thing jewellery myths are made of.  The value of rarity is the most priceless factor…in the world of jewellery today and as supply tightens, prices will be driven up."</p>
                                         <small>Respected Jewellery historian <cite title="Vivienne Becker">Vivienne Becker</cite></small>
                                     </blockquote>                                    
                                 </div>
@@ -134,10 +134,10 @@
                         <div class="span12 content">
                             <div class="row-fluid">
                                 <div class="span8">
-                                    <p>Owners and enthusiasts of rare gems include Australian born Princess Mary of Denmark, whose Shamballa bracelet has a single pave ball fashioned completely from pink diamonds, as well as Queen Elizabeth II, who received the famous Williamson pink diamond broach from Tanzania as a gift for her wedding in 1947.</p>
+                                    <p>Owners and enthusiasts of rare gems include Australian born Princess Mary of Denmark, whose Shamballa bracelet has a single pavé ball fashioned completely from pink diamonds, as well as Queen Elizabeth II, who received the famous Williamson pink diamond broach from Tanzania as a gift for her wedding in 1947.</p>
                                     <p>There are numerous hues and tones available to satisfy every taste.  Each pink stone is unique and it's price is determined by its cut, colour, clarity and carat.</p>
-                                    <p>The presence of other colours can add depth to the colour of a pink diamond.  Shades of brown can enhance the colour of the stone, giving it a "warm" pink colour.  Another beautiful combination is the presence of purple, giving the diamond a "sweet," vibrant colour.  Each pink diamond in existence is the result of a rare and extraordinary phenomenon and is a treasure to own</p>
-                                    <p>The exact reason for the pink colouration in these stones has never been proved conclusively.  Unlike other coloured diamonds, where colouration is caused by a trace element (such as boron in blues), pink diamond colour may be caused by internal blemishes, known as graining</p>
+                                    <p>The presence of other colours can add depth to the colour of a pink diamond.  Shades of brown can enhance the colour of the stone, giving it a "warm" pink colour.  Another beautiful combination is the presence of purple, giving the diamond a "sweet," vibrant colour.  Each pink diamond in existence is the result of a rare and extraordinary phenomenon and is a treasure to own.</p>
+                                    <p>The exact reason for the pink colouration in these stones has never been proved conclusively.  Unlike other coloured diamonds, where colouration is caused by a trace element (such as boron in blues), pink diamond colour may be caused by internal blemishes, known as graining.</p>
                                     <p>The term pink as it relates to diamond grading by the <a href="http://www.gia.edu/" target="_blank">GIA</a> is used to describe colours in the hue range from reddish purple to orange.  Differences in tone give a diamond its pink appearance, while saturation of colour determines a colour grade.</p>                                    
                                     <p>Each pink diamond is cut from the rough in such a way as to bring out the most colour saturation.  It is not uncommon for coloured diamonds to have 1-2 secondary colours in addition to their main colour.  In pink diamonds, the most commonly occurring secondary colour modifiers include purple, brown and orange.</p>                                    
                                     <h3>The GIA Diamond Colour Scale</h3>                                                                        
@@ -246,7 +246,7 @@
                                     <p>Over the last 40 years the world economy has experienced inflation, recessions, oil crises and other economic factors that have influenced most investment vehicles.  However, a pink diamond has never decreased in value and there has been little consumer demand driving the price up.  Now that we are seeing a more widespread use of these diamonds in jewellery fashions, those currently purchasing a premium pink diamond avoid future increases in price and maximise resale profits.</p>
                                     <p>In general, the most demand is for 1-2 carat pink diamonds, making this size in fancy or intense pink an excellent investment opportunity.  If you are on a budget, an alternative you may wish to consider is purchasing intense or vivid pink diamonds in smaller sizes (0.25-0.80 carats). </p>
                                     <h3>Pink Diamonds as an Investment</h3>
-                                    <p>While each of the four C's (Cut, Colour, Clarity & Carat) of Diamond grading applies to all diamonds, it is very important to base purchase decisions on colour first and clarity last</p>
+                                    <p>While each of the four C's (Cut, Colour, Clarity & Carat) of Diamond grading applies to all diamonds, it is very important to base purchase decisions on colour first and clarity last.</p>
                                     <p>Size, hue and intensity determine the ultimate value of a pink diamond.  While the majority of all pinks have a clarity grade of SI, even I clarities are often 'eye-clean,' with no imperfections, or 'inclusions,' visible to the naked eye.  In general, pink diamonds with hues closer to red have a lower clarity grading than those closer to orange (Gems & Gemology, 2012).  Diamonds that have a strong saturation of colour and a VS or higher clarity demand a premium price.</p>                                    
                                 </div>
                                 <div class="span6">
@@ -278,21 +278,19 @@
                         <div class="span12 content">
                             <div class="row-fluid">
                                 <div class="span6">
-                                    <p>For the jewellers in the Parisian district Place Vendôme, including Cartier, Van Cleef & Arpels and Bulgari, canary yellow diamonds have become some of their best selling lines.  Yellow diamonds are highly fashionable, fueled by nostalgia, celebrity preference, rarity and other factors.  Rihanna recently sang "yellow diamonds in the sky" in the song "We Found Love." </p>
+                                    <p>For the jewellers in the Parisian district Place Vendôme, including Cartier, Van Cleef & Arpels and Bulgari, canary yellow diamonds have become some of their best selling lines.  Yellow diamonds are highly fashionable, fueled by nostalgia, celebrity preference, rarity and other factors. Rihanna recently sang "yellow diamonds in the sky" in the song "We Found Love". </p>
                                     <p>At Fabergé, more customers are voicing interest in the stones, says Ms. Flohr, with notable demand coming from Russia, Asia—China, in particular—and the U.S. </p>
                                     <p>Since 2003 the price of white diamonds has risen more than 30%, according to the Idex Online polished diamond index, driven by demand from a growing class of wealthy consumers in emerging markets and interest in gems as an investment vehicle.  Over the same timescale, yellow diamonds have increased by almost 300%.</p>
                                     <p>Yellow diamonds vary greatly in price. Lighter stones can sell for less than half the price of top-quality colorless white diamonds, while the most fiery, vivid yellow diamonds will command small fortunes. </p>
                                     <p>While there is no industry-recognized price list or index for yellow diamonds, a round, D-grade white diamond can cost around $14,000 to $15,000 per carat, according to Gemdax, an Antwerp-based consulting firm that specializes in diamonds. A similar "fancy light" yellow diamond will cost around $6,500 per carat, while a more strongly colored "fancy, vivid" yellow diamond can sell for more than $40,000, according to Gemdax. </p>
-                                    <p>As Asia's luxury boom continues, yellow diamonds are likely to remain in demand. "For Asians and the Chinese more specifically, yellow is a really appealing color, both for gold and for diamonds," says Cindy Chao, a Taiwanese jewelry designer. "It's often associated with money." </p>
-                                    
+                                    <p>As Asia's luxury boom continues, yellow diamonds are likely to remain in demand. "For Asians and the Chinese more specifically, yellow is a really appealing color, both for gold and for diamonds," says Cindy Chao, a Taiwanese jewelry designer. "It's often associated with money." </p>                                    
                                 </div>
                                 <div class="span6">
 
                                     <img class="img-polaroid" src="/img/Katharina_Flohr.jpg" title="Katharina Flohr, Creative Director of Russian jeweler Fabergé" alt="Katharina Flohr, Creative Director of Russian jeweler Fabergé" />                                                                        
 
-
-                                    <blockquote>
-                                        <p>"Yellow diamonds have become incredibly popular. Luxury consumers' appetite for all colored diamonds, as well as the soaring price of white diamonds, has given yellow gems a boost.  While white diamonds have long been the first port of call for jewelery shoppers"</p>
+                                    <blockquote style="padding-top:10px;">
+                                        <p style="font-style: italic">"Yellow diamonds have become incredibly popular. Luxury consumers' appetite for all colored diamonds, as well as the soaring price of white diamonds, has given yellow gems a boost.  While white diamonds have long been the first port of call for jewelery shoppers"</p>
                                         <small><cite title="Katharina Flohr">Katharina Flohr</cite>, creative director of Russian jeweler Fabergé.</small>
                                     </blockquote>                                    
                                 </div>                                    
@@ -341,10 +339,14 @@
                                         </fieldset>
                                     </form>
                                 </div>                                
-                                <div class="span6">
-                                    <p>London DE (UK) ltd is registered in England and Wales, company registration number 08531847. </p>
+                                <div class="span6">                                    
+                                    <p>London DE Limited</p>
+                                    <p>2 Eaton Gate</p>
+                                    <p>London</p>
+                                    <p>SW1W 9BJ</p>
+                                    <p>Registered in England & Wales, company registration number: 8806847</p>                                    
                                     <b>Disclaimer:</b> 
-                                    <p>The Diamond Exchange (TDE) acts only as an introducer (for investment products that are currently not authorised by the Financial Conduct Authority) in respect of regulated activities and/or products and therefore seeks to rely on introducer exemptions in Article 33 and 33A of the Financial Services and Markets act 2000/01. TDE does not operate any form of collective investment scheme, nor can TDE offer any form of investment advice whatsoever. TDE is not regulated by the Financial Conduct Authority. The purchasing of diamonds on a spot basis is an unregulated activity and should only be considered by those who are comfortable making their own investment decisions. Purchasers should seek to rely solely upon their own research and due diligence when purchasing. Past performance is not a guide to the future. The future returns and opinions expressed are based upon TDE’s own forecast and should not be relied upon as indicating any guarantee of return for any investment. The source of all information is generally from TDE unless specified otherwise.</p>                                    
+                                    <p>The The London Diamond Exchange (TDE) acts only as an introducer (for investment products that are currently not authorised by the Financial Conduct Authority) in respect of regulated activities and/or products and therefore seeks to rely on introducer exemptions in Article 33 and 33A of the Financial Services and Markets act 2000/01. TDE does not operate any form of collective investment scheme, nor can TDE offer any form of investment advice whatsoever. TDE is not regulated by the Financial Conduct Authority. The purchasing of diamonds on a spot basis is an unregulated activity and should only be considered by those who are comfortable making their own investment decisions. Purchasers should seek to rely solely upon their own research and due diligence when purchasing. Past performance is not a guide to the future. The future returns and opinions expressed are based upon TDE’s own forecast and should not be relied upon as indicating any guarantee of return for any investment. The source of all information is generally from TDE unless specified otherwise.</p>                                    
                                     <!-- googlemaps 
                                     <div id="map_canvas"></div>
                                     -->
