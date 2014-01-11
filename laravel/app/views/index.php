@@ -6,6 +6,7 @@
         <meta name="description" content="Diamond Investment" />
         <meta name="author" content="Diamond Investment" />
         <meta charset="utf-8" />
+        <link href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAD/kesAAAAAAP9j4gD/zPYA////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERFBEREREREREUERERERERFEREEREREAERFBEREREAABEUEREREzMzIRERERE0A0MzERERFEMEQzQxEREEMCREA0MRECMCJEQgMgEQNERERERDAREEREREREARERA0REQzAREUEREREREREURBERERERERFBERERERERH/+wAA//sAAP5gAAD8OwAA+BsAAPAPAADgBwAAwAMAAIABAAAAAAAAAAAAAIABAADAAwAAoAcAAB//AAC//wAA" rel="icon" type="image/x-icon" />
         <link href="css/bootstrap.min.css" rel="stylesheet" media="screen" />
         <link href="css/font-awesome.min.css" rel="stylesheet" media="screen" />
         <link href="css/flexslider.css" rel="stylesheet" media="screen" />
@@ -21,6 +22,18 @@
         <style type="text/css">
         </style>
         <![endif]-->
+        <script type="text/javascript" src="js/jquery.min.js"></script>        
+        <script type="text/javascript" src="js/jquery.validate.js"></script>
+        <script type="text/javascript">
+        $().ready(function() {
+            // validate the comment form when it is submitted
+            $("#commentForm").validate({
+                submitHandler: function() { 
+                    alert("submitted!"); 
+                }
+            });
+        });
+        </script>        
     </head>
 
     <body>
@@ -47,8 +60,8 @@
                                 <div class="nav-collapse collapse">
                                     <ul class="nav pull-right" id="navigation">
                                         <li><a data-nav="scroll" href="#/home" class="active">HOME</a></li>                                        
-                                        <li><a data-nav="scroll" href="#/invest-in-rare-diamonds">INVEST IN RARE DIAMONDS</a></li>
-                                        <li><a data-nav="scroll" href="#/rare-diamond-guide">RARE DIAMOND GUIDE</a></li>
+                                        <li><a data-nav="scroll" href="#/invest-in-rare-diamonds">INVEST IN DIAMONDS</a></li>
+                                        <li><a data-nav="scroll" href="#/rare-diamond-guide">DIAMOND GUIDE</a></li>
                                         <li><a data-nav="scroll" href="#/supply-vs-demand">SUPPLY VS. DEMAND</a></li>
                                         <li><a data-nav="scroll" href="#/diamond-prices">DIAMOND PRICES</a></li>     
                                         <li><a data-nav="scroll" href="#/contact-us">CONTACT US</a></li>                                        
@@ -68,8 +81,7 @@
                     <div class="row-fluid">
                         <div class="span12">
                             <hgroup id="intro" style="display: none">
-                                <h2>The The London Diamond Exchange</h2>
-                                <h3>Guide to Investing in Natural Pink and Yellow Diamonds</h3>
+                                <h2>The London Diamond Exchange</h2>
                             </hgroup>
                         </div>
                     </div>
@@ -84,7 +96,7 @@
                     <div class="row-fluid">
                         <div class="span12 header">
                             <hgroup>
-                                <h2>Investing in Rare Diamonds</h2>
+                                <h2>Investing in Diamonds</h2>
                             </hgroup>
                         </div>
                     </div>
@@ -92,7 +104,7 @@
                         <div class="span12 content">
                             <div class="row-fluid">
                                 <div class="span6">
-                                    <p>Production at Rio Tinto's Argyle mine in Western Australia's Kimberley region will soon come to an end as its rare deposits of pink diamonds reach exhaustion</p>
+                                    <p>Production at Rio Tinto's Argyle mine in Western Australia's Kimberley region will soon come to an end as its rare deposits of pink diamonds reach exhaustion.</p>
                                     <p>The mine, which accounts for over 90% of the global supply of pink diamonds, will be largely depleted by 2018.</p>
                                     <p>In 2010, from more than 25 million carats of rough diamonds mined from the Argyle mines, fewer than 10,000 carats were pink diamonds and of these only 10% were over 0.20 carats.  All of the pink diamonds produced by the Arglye mine in an average year would fit inside a single champagne flute!</p> 
                                 </div>
@@ -126,7 +138,7 @@
                     <div class="row-fluid">
                         <div class="span12 header">
                             <hgroup>
-                                <h2>Rare Diamond Guide</h2>
+                                <h2>Diamond Guide</h2>
                             </hgroup>
                         </div>
                     </div>
@@ -138,7 +150,7 @@
                                     <p>There are numerous hues and tones available to satisfy every taste.  Each pink stone is unique and it's price is determined by its cut, colour, clarity and carat.</p>
                                     <p>The presence of other colours can add depth to the colour of a pink diamond.  Shades of brown can enhance the colour of the stone, giving it a "warm" pink colour.  Another beautiful combination is the presence of purple, giving the diamond a "sweet," vibrant colour.  Each pink diamond in existence is the result of a rare and extraordinary phenomenon and is a treasure to own.</p>
                                     <p>The exact reason for the pink colouration in these stones has never been proved conclusively.  Unlike other coloured diamonds, where colouration is caused by a trace element (such as boron in blues), pink diamond colour may be caused by internal blemishes, known as graining.</p>
-                                    <p>The term pink as it relates to diamond grading by the <a href="http://www.gia.edu/" target="_blank">GIA</a> is used to describe colours in the hue range from reddish purple to orange.  Differences in tone give a diamond its pink appearance, while saturation of colour determines a colour grade.</p>                                    
+                                    <p>The term pink as it relates to diamond grading by the <a style="color:#08C" href="http://www.gia.edu/" target="_blank">GIA</a> is used to describe colours in the hue range from reddish purple to orange.  Differences in tone give a diamond its pink appearance, while saturation of colour determines a colour grade.</p>                                    
                                     <p>Each pink diamond is cut from the rough in such a way as to bring out the most colour saturation.  It is not uncommon for coloured diamonds to have 1-2 secondary colours in addition to their main colour.  In pink diamonds, the most commonly occurring secondary colour modifiers include purple, brown and orange.</p>                                    
                                     <h3>The GIA Diamond Colour Scale</h3>                                                                        
                                     <div class="table-responsive">                                        
@@ -148,7 +160,7 @@
                                                     <td>Colourless</td>
                                                     <td style="width:15%"><img class="img-polaroid" src="/img/1_pic.gif" title="D-F GIA Grade Diamonds" alt="D-F GIA Grade Diamonds" /></td>
                                                     <td>
-                                                        <p>There is a slight difference in colour between D, E and F diamonds however these can only be detected by a gemologist carrying out side by side comparisons rather than by the naked eye</p>
+                                                        <p>There is a slight difference in colour between D, E and F diamonds however these can only be detected by a gemologist carrying out side by side comparisons rather than by the naked eye.</p>
                                                         <p>D-F diamonds should only be set in white gold or platinum. Yellow gold reflects color, therefore cancelling the diamond's colorless effect.</p>
                                                     </td>
                                                 </tr>
@@ -214,11 +226,19 @@
                                     <p>The way a pink diamond appears loose is not always how it appears mounted. In most cases, light leaving the pavilion of a loose stone reduces the chance for potentially stronger colour saturation. Therefore, each diamond requires personal consideration when setting to most effectively bring out the hidden qualities.</p>
                                     <h3>Investment Tips:</h3>
                                     <ul>
-                                        <li>Pure pinks with a heavy saturation of colour have the most long term value</li>
-                                        <li>1-1.5 Carat pink diamonds are the most in demand</li>
-                                        <li>Purchasing at wholesale prices ensures a bigger return on investment when reselling</li>
+                                        <li>Pure pinks with a heavy saturation of colour have the most long term value.</li>
+                                        <li>1-1.5 Carat pink diamonds are the most in demand.</li>
+                                        <li>Purchasing at wholesale prices ensures a bigger return on investment when reselling.</li>
                                         <li>Certified pink diamonds are more valuable than non-certified stones.</li>
-                                    </ul>                                    
+                                    </ul>             
+                                    <h3>The GIA Diamond Colour Scale</h3>
+                                    <p style="color:#fabcf9;">Faint — 8%</p>
+                                    <p style="color:#fba3f9;">Light — 16%</p>
+                                    <p style="color:#f694ed;">Fancy Light — 10%</p>
+                                    <p style="color:#e965e0;">Fancy — 33%</p>
+                                    <p style="color:#ec5fdf;">Fancy Intense — 19%</p>
+                                    <p style="color:#c341b0;">Fancy Deep — 10%</p>
+                                    <p style="color:#b3129c;">Fancy Vivid — 4%</p>
                                 </div>                                
                             </div>
                         </div>
@@ -251,8 +271,7 @@
                                 </div>
                                 <div class="span6">
                                     <img class="img-polaroid" src="/img/graph.jpg"/>                                    
-                                    <p style="text-align:center">Source: Rapaport - RapNet Diamond Trading Network, 2013</p>                                        
-                                    
+                                    <p style="text-align:center">Source: Rapaport - RapNet Diamond Trading Network, 2013</p>                                                                            
                                     <img class="img-polaroid" src="/img/yellow_diamond_price.jpg"/>                                    
                                     <p style="text-align:center">Source: Rapaport - RapNet Diamond Trading Network, 2013</p>                                                                            
                                 </div>                            
@@ -290,14 +309,11 @@
                                     <img class="img-polaroid" src="/img/Katharina_Flohr.jpg" title="Katharina Flohr, Creative Director of Russian jeweler Fabergé" alt="Katharina Flohr, Creative Director of Russian jeweler Fabergé" />                                                                        
 
                                     <blockquote style="padding-top:10px;">
-                                        <p style="font-style: italic">"Yellow diamonds have become incredibly popular. Luxury consumers' appetite for all colored diamonds, as well as the soaring price of white diamonds, has given yellow gems a boost.  While white diamonds have long been the first port of call for jewelery shoppers"</p>
+                                        <p style="font-style: italic">"Yellow diamonds have become incredibly popular. Luxury consumers' appetite for all colored diamonds, as well as the soaring price of white diamonds, has given yellow gems a boost.  While white diamonds have long been the first port of call for jewelery shoppers".</p>
                                         <small><cite title="Katharina Flohr">Katharina Flohr</cite>, creative director of Russian jeweler Fabergé.</small>
                                     </blockquote>                                    
                                 </div>                                    
-                                    <p></p>
-                                    
-                                </div>                            
-                            </div>
+                            </div>                            
                         </div>
                     </div>
                 </div>
@@ -318,24 +334,25 @@
                     <div class="row-fluid">
                         <div class="span12 content">
                             <div class="row-fluid">
-                                <div class="span6">
-                                    <form>
+                                <div class="span6">                                    
+                                    <form class="cmxform" id="commentForm" method="get" action="">
                                         <fieldset>
-                                            <div class="control-group">
-                                                <div class="controls">
-                                                    <input class="span12" type="text" placeholder="Your Full Name">
-                                                </div>
-                                                <div class="controls">
-                                                    <input class="span12" type="text" placeholder="Your Email">
-                                                </div>          
-                                                <div class="controls">
-                                                    <input class="span12" type="text" placeholder="Message Subject">
-                                                </div>
-                                                <div class="controls">
-                                                    <textarea class="span12" id="textarea" rows="6" placeholder="Your Message"></textarea>
-                                                </div>
-                                                <button class="btn btn-default">Send Message</button>
-                                            </div>
+                                            <legend><h3>Request more information</h3></legend>
+                                            <p style="padding-top:10px">
+                                                <label for="cname">Name *</label>
+                                                <input id="cname" name="name" minlength="2" type="text" required />
+                                            <p>
+                                                <label for="cemail">E-Mail *</label>
+                                                <input id="cemail" type="email" name="email" required />
+                                            </p>
+                                                
+                                            <p>
+                                                <label for="ccomment">Message *</label>
+                                                <textarea id="ccomment" name="comment" required></textarea>
+                                            </p>
+                                            <p>
+                                                <input type="submit" value="Send" class="btn btn-default">
+                                            </p>
                                         </fieldset>
                                     </form>
                                 </div>                                
@@ -344,6 +361,7 @@
                                     <p>2 Eaton Gate</p>
                                     <p>London</p>
                                     <p>SW1W 9BJ</p>
+                                    <p>0044 (0)207 859 4754</p>
                                     <p>Registered in England & Wales, company registration number: 8806847</p>                                    
                                     <b>Disclaimer:</b> 
                                     <p>The The London Diamond Exchange (TDE) acts only as an introducer (for investment products that are currently not authorised by the Financial Conduct Authority) in respect of regulated activities and/or products and therefore seeks to rely on introducer exemptions in Article 33 and 33A of the Financial Services and Markets act 2000/01. TDE does not operate any form of collective investment scheme, nor can TDE offer any form of investment advice whatsoever. TDE is not regulated by the Financial Conduct Authority. The purchasing of diamonds on a spot basis is an unregulated activity and should only be considered by those who are comfortable making their own investment decisions. Purchasers should seek to rely solely upon their own research and due diligence when purchasing. Past performance is not a guide to the future. The future returns and opinions expressed are based upon TDE’s own forecast and should not be relied upon as indicating any guarantee of return for any investment. The source of all information is generally from TDE unless specified otherwise.</p>                                    
@@ -362,7 +380,6 @@
         <div style="display: none;" id="lightbox"><img id="bigimg" src="" /></div>
 
         <!-- scripts -->
-        <script type="text/javascript" src="js/jquery.min.js"></script>
         <script type="text/javascript" src="js/signals.min.js"></script>
         <script type="text/javascript" src="js/crossroads.min.js"></script>
         <script type="text/javascript" src="js/hasher.min.js"></script>
@@ -373,6 +390,8 @@
         <script type="text/javascript" src="js/googlemaps.js"></script>
         <script type="text/javascript" src="js/theme.js"></script>
 
+               
+        
     </body>
 
 </html>
