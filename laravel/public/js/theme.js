@@ -171,10 +171,7 @@ readyState(function()
             { src: 'img/bg4.jpg', fade: 2000 },
             { src: 'img/bg5.jpg', fade: 2000 },
             { src: 'img/bg6.jpg', fade: 2000 },
-            { src: 'img/bg7.jpg', fade: 2000 },
-            { src: 'img/bg8.jpg', fade: 2000 },
-            { src: 'img/bg9.jpg', fade: 2000 }
-        ]
+            { src: 'img/bg7.jpg', fade: 2000 }        ]
     })('overlay');
 
     /**
