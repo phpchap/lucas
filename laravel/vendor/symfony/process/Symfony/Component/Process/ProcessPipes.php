@@ -26,10 +26,13 @@ class ProcessPipes
     private $readBytes = array();
     /** @var Boolean */
     private $useFiles;
+    /** @var Boolean */
+    private $ttyMode;
 
-    public function __construct($useFiles = false)
+    public function __construct($useFiles, $ttyMode)
     {
         $this->useFiles = (Boolean) $useFiles;
+        $this->ttyMode = (Boolean) $ttyMode;
 
         // Fix for PHP bug #51800: reading from STDOUT pipe hangs forever on Windows if the output is too big.
         // Workaround for this problem is to use temporary files instead of pipes on Windows platform.
@@ -80,7 +83,7 @@ class ProcessPipes
     }
 
     /**
-     * Closes unix pipes.
+     * Closes Unix pipes.
      *
      * Nothing happens in case file handles are used.
      */
@@ -105,6 +108,14 @@ class ProcessPipes
                 $this->fileHandles[Process::STDOUT],
                 // Use a file handle only for STDOUT. Using for both STDOUT and STDERR would trigger https://bugs.php.net/bug.php?id=65650
                 array('pipe', 'w'),
+            );
+        }
+
+        if ($this->ttyMode) {
+            return array(
+                array('file', '/dev/tty', 'r'),
+                array('file', '/dev/tty', 'w'),
+                array('file', '/dev/tty', 'w'),
             );
         }
 
@@ -156,8 +167,8 @@ class ProcessPipes
     /**
      * Writes stdin data.
      *
-     * @param Boolean $blocking Whether to use blocking calls or not.
-     * @param string  $stdin    The data to write.
+     * @param Boolean     $blocking Whether to use blocking calls or not.
+     * @param string|null $stdin    The data to write.
      */
     public function write($blocking, $stdin)
     {
@@ -247,6 +258,10 @@ class ProcessPipes
      */
     private function readStreams($blocking, $close = false)
     {
+        if (empty($this->pipes)) {
+            return array();
+        }
+
         $read = array();
 
         $r = $this->pipes;
@@ -256,7 +271,7 @@ class ProcessPipes
         // let's have a look if something changed in streams
         if (false === $n = @stream_select($r, $w, $e, 0, $blocking ? ceil(Process::TIMEOUT_PRECISION * 1E6) : 0)) {
             // if a system call has been interrupted, forget about it, let's try again
-            // otherwise, an error occured, let's reset pipes
+            // otherwise, an error occurred, let's reset pipes
             if (!$this->hasSystemCallBeenInterrupted()) {
                 $this->pipes = array();
             }

@@ -161,34 +161,34 @@
                                                     <td style="width:15%"><img class="img-polaroid" src="/img/1_pic.gif" title="D-F GIA Grade Diamonds" alt="D-F GIA Grade Diamonds" /></td>
                                                     <td>
                                                         <p>There is a slight difference in colour between D, E and F diamonds however these can only be detected by a gemologist carrying out side by side comparisons rather than by the naked eye.</p>
-                                                        <p>D-F diamonds should only be set in white gold or platinum. Yellow gold reflects color, therefore cancelling the diamond's colorless effect.</p>
+                                                        <p>D-F diamonds should only be set in white gold or platinum. Yellow gold reflects colour, therefore cancelling the diamond's colourless effect.</p>
                                                     </td>
                                                 </tr>
                                                 <tr style="background:#fffff7;">
-                                                    <td>Near Colorless</td>
+                                                    <td>Near Colourless</td>
                                                     <td style="width:15%"><img class="img-polaroid" src="/img/2_pic.jpg" title="G-J GIA Grade Diamonds" alt="G-J GIA Grade Diamonds" /></td>
                                                     <td>
-                                                        <p>G-J diamonds contain a trace of colour and are suitable for a platinum or white gold setting, which usually would normally detract any hint of color in a diamond.</p>
+                                                        <p>G-J diamonds contain a trace of colour and are suitable for a platinum or white gold setting, which usually would normally detract any hint of colour in a diamond.</p>
                                                         <p>I-J diamonds are more common than the higher grades, they tend to yield a greater value. An I-J diamond may be sold for half the value of a D diamond. The price of diamonds within the G-J range tend to increase 10-20% between each diamond grade.</p>
                                                     </td>
                                                 </tr>
                                                 <tr style="background:#fffff1;">
-                                                    <td>Faint Color</td>
+                                                    <td>Faint Colour</td>
                                                     <td style="width:15%"><img class="img-polaroid" src="/img/3_pic.jpg" title="K-M GIA Grade Diamonds" alt="K-M GIA Grade Diamonds" /></td>
                                                     <td>
-                                                        <p>K diamonds color (usually a yellow tint) is more easily detected by the naked eye.</p>
-                                                        <p>Set in yellow gold and are an exceptional value. Due to its perceptible color tint, a K diamond is often half the price of a G diamond.</p>
+                                                        <p>K diamonds colour (usually a yellow tint) is more easily detected by the naked eye.</p>
+                                                        <p>Set in yellow gold and are an exceptional value. Due to its perceptible colour tint, a K diamond is often half the price of a G diamond.</p>
                                                     </td>
                                                 </tr>
                                                 <tr style="background:#ffffeb;">
-                                                    <td>Very Light Color</td>
+                                                    <td>Very Light Colour</td>
                                                     <td style="width:15%"><img class="img-polaroid" src="/img/4_pic.gif" title="N-R GIA Grade Diamonds" alt="N-R GIA Grade Diamonds" /></td>
                                                     <td>
-                                                        <p>Diamonds in the N-R color range have an easily seen colour tint, however they are much less expensive than higher grades.</p>
+                                                        <p>Diamonds in the N-R colour range have an easily seen colour tint, however they are much less expensive than higher grades.</p>
                                                     </td>
                                                 </tr>          
                                                 <tr style="background:#ffffe1;">
-                                                    <td>Light Color</td>
+                                                    <td>Light Colour</td>
                                                     <td style="width:15%"><img class="img-polaroid" src="/img/5_pic.gif" title="S-Z GIA Grade Diamonds" alt="S-Z GIA Grade Diamonds" /></td>
                                                     <td>
                                                         <p>S-Z diamonds have too much colour for the general diamond market. Diamonds beyond Z colour are graded as Fancy colour with a separate set of parameters. </p>
@@ -300,16 +300,16 @@
                                     <p>For the jewellers in the Parisian district Place Vendôme, including Cartier, Van Cleef & Arpels and Bulgari, canary yellow diamonds have become some of their best selling lines.  Yellow diamonds are highly fashionable, fueled by nostalgia, celebrity preference, rarity and other factors. Rihanna recently sang "yellow diamonds in the sky" in the song "We Found Love". </p>
                                     <p>At Fabergé, more customers are voicing interest in the stones, says Ms. Flohr, with notable demand coming from Russia, Asia—China, in particular—and the U.S. </p>
                                     <p>Since 2003 the price of white diamonds has risen more than 30%, according to the Idex Online polished diamond index, driven by demand from a growing class of wealthy consumers in emerging markets and interest in gems as an investment vehicle.  Over the same timescale, yellow diamonds have increased by almost 300%.</p>
-                                    <p>Yellow diamonds vary greatly in price. Lighter stones can sell for less than half the price of top-quality colorless white diamonds, while the most fiery, vivid yellow diamonds will command small fortunes. </p>
-                                    <p>While there is no industry-recognized price list or index for yellow diamonds, a round, D-grade white diamond can cost around $14,000 to $15,000 per carat, according to Gemdax, an Antwerp-based consulting firm that specializes in diamonds. A similar "fancy light" yellow diamond will cost around $6,500 per carat, while a more strongly colored "fancy, vivid" yellow diamond can sell for more than $40,000, according to Gemdax. </p>
-                                    <p>As Asia's luxury boom continues, yellow diamonds are likely to remain in demand. "For Asians and the Chinese more specifically, yellow is a really appealing color, both for gold and for diamonds," says Cindy Chao, a Taiwanese jewelry designer. "It's often associated with money." </p>                                    
+                                    <p>Yellow diamonds vary greatly in price. Lighter stones can sell for less than half the price of top-quality colourless white diamonds, while the most fiery, vivid yellow diamonds will command small fortunes. </p>
+                                    <p>While there is no industry-recognized price list or index for yellow diamonds, a round, D-grade white diamond can cost around $14,000 to $15,000 per carat, according to Gemdax, an Antwerp-based consulting firm that specializes in diamonds. A similar "fancy light" yellow diamond will cost around $6,500 per carat, while a more strongly coloured "fancy, vivid" yellow diamond can sell for more than $40,000, according to Gemdax. </p>
+                                    <p>As Asia's luxury boom continues, yellow diamonds are likely to remain in demand. "For Asians and the Chinese more specifically, yellow is a really appealing colour, both for gold and for diamonds," says Cindy Chao, a Taiwanese jewelry designer. "It's often associated with money." </p>                                    
                                 </div>
                                 <div class="span6">
 
                                     <img class="img-polaroid" src="/img/Katharina_Flohr.jpg" title="Katharina Flohr, Creative Director of Russian jeweler Fabergé" alt="Katharina Flohr, Creative Director of Russian jeweler Fabergé" />                                                                        
 
                                     <blockquote style="padding-top:10px;">
-                                        <p style="font-style: italic">"Yellow diamonds have become incredibly popular. Luxury consumers' appetite for all colored diamonds, as well as the soaring price of white diamonds, has given yellow gems a boost.  While white diamonds have long been the first port of call for jewelery shoppers".</p>
+                                        <p style="font-style: italic">"Yellow diamonds have become incredibly popular. Luxury consumers' appetite for all coloured diamonds, as well as the soaring price of white diamonds, has given yellow gems a boost.  While white diamonds have long been the first port of call for jewelery shoppers".</p>
                                         <small><cite title="Katharina Flohr">Katharina Flohr</cite>, creative director of Russian jeweler Fabergé.</small>
                                     </blockquote>                                    
                                 </div>                                    
