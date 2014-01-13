@@ -24,23 +24,25 @@ Route::post('/contact', function(){
     // build the email details
     $name = $input['name']; 
     $email = $input['email']; 
-    $subject = $input['subject']; 
-    $message = $input['message'];
+    //$subject = $input['subject']; 
+    $message = $input['comment'];
     
     // build the message
     $msg = "Diamond Exchange Contact Form Message: <br/>";
+    $msg .= "<br/>";    
     $msg .= "From: ".$name."<br/>";    
     $msg .= "Email: ".$email ."<br/>";
-    $msg .= "Subject : ".$subject."<br/>";    
+    $msg .= "<br/>";
+    //$msg .= "Subject : ".$subject."<br/>";    
     $msg .= "Message: ".$message."<br/>";
  
     // retrieve the ses client
     $client = App::make('aws')->get('Ses');
 
     // send the email
-    $sent = $client->sendEmail(array('Source' => 'hello@diamondexchange.com',
-                                     'Destination' => array( 'ToAddresses' => array('phpchap@gmail.com')),
-                                     'Message' => array('Subject' => array('Data' => 'From Diamond Exchange Website: '.$subject),
+    $sent = $client->sendEmail(array('Source' => 'philip@thediamondexchange.co.uk', 
+                                     'Destination' => array( 'ToAddresses' => array('philip@thediamondexchange.co.uk')),
+                                     'Message' => array('Subject' => array('Data' => 'From Diamond Exchange Website'),
                                      'Body' => array('Html' => array('Data' => $msg)))));    
 
     if($sent) {

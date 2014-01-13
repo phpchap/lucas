@@ -29,7 +29,25 @@
             // validate the comment form when it is submitted
             $("#commentForm").validate({
                 submitHandler: function() { 
-                    alert("submitted!"); 
+                    
+                    // gather
+                    var d_name = $("#cname").val();
+                    var d_email = $("#cemail").val();
+                    var d_comment = $("#ccomment").val();
+                             
+                    // post it..
+                    $.post( "<?php echo url('/contact'); ?>", { name: d_name, email: d_email, comment: d_comment }, function(data, status){
+                        
+                        if(status == "success") {
+                            //$("#commentForm").hide();
+                            $("#commentForm").html("<h2>Thanks for sending us a message, we will be in touch soon</h2>");
+                        } else {
+                            //$("#commentForm").hide();
+                            $("#commentForm").html("<h2>There was an error sending the message, please try again</h2>");
+                            
+                        }
+                        
+                    });
                 }
             });
         });
@@ -344,8 +362,7 @@
                                             <p>
                                                 <label for="cemail">E-Mail *</label>
                                                 <input id="cemail" type="email" name="email" required />
-                                            </p>
-                                                
+                                            </p>                                                
                                             <p>
                                                 <label for="ccomment">Message *</label>
                                                 <textarea id="ccomment" name="comment" required></textarea>
