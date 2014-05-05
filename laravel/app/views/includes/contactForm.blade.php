@@ -34,8 +34,7 @@
                                                   required></textarea>
                                     </p>
                                     <p>
-                                        <input type="submit" value="Send Requset"
-                                               class="btn btn-large btn-success">
+                                        <input type="submit" value="Send Request" class="btn btn-large btn-success">
                                     </p>
                                 </fieldset>
                             </form>

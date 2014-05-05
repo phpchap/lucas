@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d5c6b87-9e57-4fb4-ad85-c12493740913" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/app/controllers/HomeController.php" afterPath="$PROJECT_DIR$/laravel/app/controllers/HomeController.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/app/views/includes/contactForm.blade.php" afterPath="$PROJECT_DIR$/laravel/app/views/includes/contactForm.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/app/views/home.blade.php" afterPath="$PROJECT_DIR$/laravel/app/views/home.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/app/views/investInDiamonds.blade.php" afterPath="$PROJECT_DIR$/laravel/app/views/investInDiamonds.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/app/views/layouts/master.blade.php" afterPath="$PROJECT_DIR$/laravel/app/views/layouts/master.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/app/routes.php" afterPath="$PROJECT_DIR$/laravel/app/routes.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/public/css/style.min.css" afterPath="$PROJECT_DIR$/laravel/public/css/style.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/public/js/theme.js" afterPath="$PROJECT_DIR$/laravel/public/js/theme.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="lucasgeorge.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -84,10 +77,28 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contactForm.blade.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="routes.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel/app/routes.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="59" column="85" selection-start="1769" selection-end="1800" vertical-scroll-proportion="-15.409091" vertical-offset="361" max-vertical-offset="924">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contactForm.blade.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/laravel/app/views/includes/contactForm.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="44" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="756">
+            <state line="36" column="80" selection-start="2056" selection-end="2056" vertical-scroll-proportion="-15.681818" vertical-offset="159" max-vertical-offset="742">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.min.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/laravel/public/css/style.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="231" column="16" selection-start="4475" selection-end="4475" vertical-scroll-proportion="0.45648313" vertical-offset="2977" max-vertical-offset="10584">
               <folding />
             </state>
           </provider>
@@ -140,11 +151,11 @@
         <option value="$PROJECT_DIR$/laravel/app/views/layouts/master.blade.php" />
         <option value="$PROJECT_DIR$/laravel/app/routes.php" />
         <option value="$PROJECT_DIR$/laravel/app/views/home.blade.php" />
-        <option value="$PROJECT_DIR$/laravel/public/css/style.min.css" />
         <option value="$PROJECT_DIR$/laravel/app/views/investInDiamonds.blade.php" />
         <option value="$PROJECT_DIR$/laravel/app/controllers/HomeController.php" />
         <option value="$PROJECT_DIR$/laravel/public/js/theme.js" />
         <option value="$PROJECT_DIR$/laravel/app/views/includes/contactForm.blade.php" />
+        <option value="$PROJECT_DIR$/laravel/public/css/style.min.css" />
       </list>
     </option>
   </component>
@@ -228,7 +239,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
+              <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -246,37 +257,11 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
+              <option name="myItemId" value="public" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lucasgeorge" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lucasgeorge" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="laravel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="includes" />
+              <option name="myItemId" value="css" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -418,26 +403,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/app/routes.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="117" selection-start="1801" selection-end="1801" vertical-scroll-proportion="0.5734072" vertical-offset="493" max-vertical-offset="924">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/laravel/app/views/layouts/master.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="42" column="50" selection-start="2368" selection-end="2368" vertical-scroll-proportion="0.72136223" vertical-offset="355" max-vertical-offset="1722">
           <folding>
             <marker date="1399296821106" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/public/css/style.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="311" column="23" selection-start="6324" selection-end="6324" vertical-scroll-proportion="0.76256984" vertical-offset="4081" max-vertical-offset="10584">
-          <folding />
         </state>
       </provider>
     </entry>
@@ -500,9 +471,23 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/app/routes.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="85" selection-start="1769" selection-end="1800" vertical-scroll-proportion="-15.409091" vertical-offset="361" max-vertical-offset="924">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/laravel/app/views/includes/contactForm.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="44" selection-start="44" selection-end="44" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="756">
+        <state line="36" column="80" selection-start="2056" selection-end="2056" vertical-scroll-proportion="-15.681818" vertical-offset="159" max-vertical-offset="742">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/public/css/style.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="231" column="16" selection-start="4475" selection-end="4475" vertical-scroll-proportion="0.45648313" vertical-offset="2977" max-vertical-offset="10584">
           <folding />
         </state>
       </provider>
