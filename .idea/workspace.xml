@@ -2,21 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d5c6b87-9e57-4fb4-ad85-c12493740913" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/laravel/app/views/includes/form.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/app/controllers/HomeController.php" afterPath="$PROJECT_DIR$/laravel/app/controllers/HomeController.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/app/views/includes/contactForm.blade.php" afterPath="$PROJECT_DIR$/laravel/app/views/includes/contactForm.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/app/views/contactUs.blade.php" afterPath="$PROJECT_DIR$/laravel/app/views/contactUs.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/public/js/googlemaps.js" afterPath="$PROJECT_DIR$/laravel/public/js/googlemaps.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/app/views/investInDiamonds.blade.php" afterPath="$PROJECT_DIR$/laravel/app/views/investInDiamonds.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/app/views/investInGermanProperty.blade.php" afterPath="$PROJECT_DIR$/laravel/app/views/investInGermanProperty.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/app/views/investInGold.blade.php" afterPath="$PROJECT_DIR$/laravel/app/views/investInGold.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/app/views/investInWaterRights.blade.php" afterPath="$PROJECT_DIR$/laravel/app/views/investInWaterRights.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/app/views/layouts/master.blade.php" afterPath="$PROJECT_DIR$/laravel/app/views/layouts/master.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/app/views/includes/nav.blade.php" afterPath="$PROJECT_DIR$/laravel/app/views/includes/nav.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/app/routes.php" afterPath="$PROJECT_DIR$/laravel/app/routes.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/public/css/style.min.css" afterPath="$PROJECT_DIR$/laravel/public/css/style.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/public/js/theme.js" afterPath="$PROJECT_DIR$/laravel/public/js/theme.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/app/views/home.blade.php" afterPath="$PROJECT_DIR$/laravel/app/views/home.blade.php" />
     </list>
     <ignored path="lucasgeorge.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -39,10 +25,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="contactUs.blade.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/laravel/app/views/contactUs.blade.php">
+      <file leaf-file-name="home.blade.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/laravel/app/views/home.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="60" column="26" selection-start="2005" selection-end="2005" vertical-scroll-proportion="0.9111111" vertical-offset="553" max-vertical-offset="1008">
+            <state line="53" column="57" selection-start="1456" selection-end="1456" vertical-scroll-proportion="0.40328467" vertical-offset="521" max-vertical-offset="1344">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nav.blade.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel/app/views/includes/nav.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="0" selection-start="0" selection-end="389" vertical-scroll-proportion="-5.7272725" vertical-offset="0" max-vertical-offset="392">
               <folding />
             </state>
           </provider>
@@ -66,7 +61,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/laravel/app/views/home.blade.php" />
         <option value="$PROJECT_DIR$/laravel/app/views/includes/nav.blade.php" />
         <option value="$PROJECT_DIR$/laravel/app/routes.php" />
         <option value="$PROJECT_DIR$/laravel/app/views/disclaimer.blade.php" />
@@ -82,6 +76,7 @@
         <option value="$PROJECT_DIR$/laravel/public/js/theme.js" />
         <option value="$PROJECT_DIR$/laravel/public/css/style.min.css" />
         <option value="$PROJECT_DIR$/laravel/app/views/contactUs.blade.php" />
+        <option value="$PROJECT_DIR$/laravel/app/views/home.blade.php" />
       </list>
     </option>
   </component>
@@ -191,6 +186,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lucasgeorge" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lucasgeorge" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="laravel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="includes" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -246,7 +267,7 @@
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.40460527" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40460527" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -276,40 +297,12 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/laravel/app/views/home.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="45" selection-start="486" selection-end="486" vertical-scroll-proportion="0.6987522" vertical-offset="0" max-vertical-offset="561">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/app/views/includes/nav.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="389" selection-end="389" vertical-scroll-proportion="-5.7272725" vertical-offset="0" max-vertical-offset="392">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/laravel/app/views/layouts/master.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="33" selection-start="247" selection-end="247" vertical-scroll-proportion="0.15328467" vertical-offset="0" max-vertical-offset="1708">
           <folding>
             <marker date="1399302341690" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/app/views/investInDiamonds.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="337" column="0" selection-start="16485" selection-end="18102" vertical-scroll-proportion="0.9489051" vertical-offset="4198" max-vertical-offset="7826">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/app/views/investInGold.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="263" column="18" selection-start="0" selection-end="13706" vertical-scroll-proportion="0.49270073" vertical-offset="3412" max-vertical-offset="4060">
-          <folding />
         </state>
       </provider>
     </entry>
@@ -369,13 +362,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/app/views/disclaimer.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="43" selection-start="0" selection-end="3831" vertical-scroll-proportion="0.821192" vertical-offset="298" max-vertical-offset="868">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/laravel/public/css/style.min.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="24" column="4" selection-start="476" selection-end="476" vertical-scroll-proportion="0.3768546" vertical-offset="209" max-vertical-offset="10752">
@@ -393,6 +379,41 @@
     <entry file="file://$PROJECT_DIR$/laravel/app/views/contactUs.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="60" column="26" selection-start="2005" selection-end="2005" vertical-scroll-proportion="0.9111111" vertical-offset="553" max-vertical-offset="1008">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/app/views/disclaimer.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="35" selection-start="774" selection-end="774" vertical-scroll-proportion="0.40145984" vertical-offset="298" max-vertical-offset="868">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/app/views/investInGold.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="135" column="80" selection-start="6111" selection-end="6257" vertical-scroll-proportion="0.5291971" vertical-offset="1600" max-vertical-offset="4060">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/app/views/investInDiamonds.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="288" column="74" selection-start="15484" selection-end="15768" vertical-scroll-proportion="99.13636" vertical-offset="6213" max-vertical-offset="7826">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/app/views/includes/nav.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="0" selection-end="389" vertical-scroll-proportion="-5.7272725" vertical-offset="0" max-vertical-offset="392">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/app/views/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="57" selection-start="1456" selection-end="1456" vertical-scroll-proportion="0.40328467" vertical-offset="521" max-vertical-offset="1344">
           <folding />
         </state>
       </provider>
