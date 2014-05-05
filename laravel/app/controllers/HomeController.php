@@ -28,13 +28,11 @@ class HomeController extends BaseController
      */
     public function investInDiamonds()
     {
-        $page = action('HomeController@investInDiamonds');
-        return View::make('investInDiamonds', array('page' => $page));
-//        ->nest(
-//            'nav',
-//            'includes.nav',
-//            array('page' => action('HomeController@investInDiamonds'))
-//        );
+        return View::make('investInDiamonds')->nest(
+            'nav',
+            'includes.nav',
+            array('page' => action('HomeController@investInDiamonds'))
+        );
     }
 
     /**

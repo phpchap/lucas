@@ -143,6 +143,11 @@ readyState(function()
         return false;
     });
 
+    $('#more_info_link').bind('click', function(){
+        $('#more_info_content').slideToggle();
+
+    });
+
     $('#logo').click(function(event)
     {
         $('#navigation a[data-nav="scroll"]').removeClass('active');
@@ -160,7 +165,7 @@ readyState(function()
 
     /**
      * Vegas background image slider
-     */
+ */
     $.vegas('slideshow',
     {
         delay: 10000,
@@ -197,3 +202,8 @@ readyState(function()
     $('.flexslider').flexslider();
 
 });
+
+jQuery.validator.addMethod('phoneUK', function(phone_number, element) {
+    return this.optional(element) || phone_number.length > 9 &&
+        phone_number.match(/^(((\+44)? ?(\(0\))? ?)|(0))( ?[0-9]{3,4}){3}$/);
+}, 'Please specify a valid phone number');

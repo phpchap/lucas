@@ -1,7 +1,27 @@
 @extends('layouts.master')
 
+@section('title')
+London DE Limited - Home
+@stop
+
+@section('description')
+Invest in Diamonds, Gold, German Property, Water Rights, Investment
+@stop
+
+@section('author')
+London DE
+@stop
+
+@section('keywords')
+Diamonds, Gold, German Property, Water Rights, Investment
+@stop
+
 @section('nav')
-    @include('includes.nav', array('page' => $page))
+<?php echo $nav; ?>
+@stop
+
+@section('contact')
+@include('includes.contactForm')
 @stop
 
 @section('intro')
@@ -27,7 +47,7 @@
                             </ul>
                         </div>
                         <div class="span6">
-                            @include('includes.contactForm')
+
                         </div>
                     </div>
                 </div>

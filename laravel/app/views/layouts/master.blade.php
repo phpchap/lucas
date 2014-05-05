@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>London DE Limited</title>
+    <title>@yield('title')</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <meta name="description" content="Diamond Investment"/>
-    <meta name="author" content="Diamond Investment"/>
+    <meta name="description" content="@yield('description')"/>
+    <meta name="author" content="@yield('author')"/>
+    <meta name="keywords" content="@yield('keywords')"/>
+
     <meta charset="utf-8"/>
     <link
         href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAD/kesAAAAAAP9j4gD/zPYA////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERFBEREREREREUERERERERFEREEREREAERFBEREREAABEUEREREzMzIRERERE0A0MzERERFEMEQzQxEREEMCREA0MRECMCJEQgMgEQNERERERDAREEREREREARERA0REQzAREUEREREREREURBERERERERFBERERERERH/+wAA//sAAP5gAAD8OwAA+BsAAPAPAADgBwAAwAMAAIABAAAAAAAAAAAAAIABAADAAwAAoAcAAB//AAC//wAA"
@@ -35,8 +37,9 @@
                     var d_name = $("#cname").val();
                     var d_email = $("#cemail").val();
                     var d_comment = $("#ccomment").val();
+                    var d_phone = $("#phone").val();
                     // post it..
-                    $.post("<?php echo url('/contact'); ?>", { name: d_name, email: d_email, comment: d_comment }, function (data, status) {
+                    $.post("<?php echo url('/contact'); ?>", { name: d_name, email: d_email, comment: d_comment, phone: d_phone }, function (data, status) {
                         if (status == "success") {
                             $("#commentForm").html("<h2>Thanks for sending us a message, we will be in touch soon</h2>");
                         } else {
@@ -66,7 +69,6 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </a>
-
                         <a class="brand" href="javascript:void(0)">
                             <h1 id="logo">London DE</h1>
                         </a>
@@ -77,6 +79,7 @@
         </div>
     </div>
 </header>
+@yield('contact')
 
 <!-- investment -->
 <section id="home" class="box">

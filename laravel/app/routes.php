@@ -30,24 +30,26 @@ Route::any('/invest-in-water-rights', 'HomeController@investInWaterRights');
 Route::any('/contact-us', 'HomeController@contactUs');
 
 // contact page AJAX send to Amazon SES
-Route::post('/contact', function(){
+Route::any('/contact', function(){
 
     // grab the input 
     $input = Input::all();
-    
+
+        error_log(print_r($input , true));
+
     // build the email details
-    $name = $input['name']; 
-    $email = $input['email']; 
-    //$subject = $input['subject']; 
-    $message = $input['comment'];
-    
+    $name   = $input['name'];
+    $email  = $input['email'];
+    $message= $input['comment'];
+    $phone  = $input['phone'];
+
+
     // build the message
-    $msg = "Diamond Exchange Contact Form Message: <br/>";
+    $msg = "Londond DE Contact Form Message: <br/>";
     $msg .= "<br/>";    
-    $msg .= "From: ".$name."<br/>";    
+    $msg .= "From: ".$name."<br/>";
     $msg .= "Email: ".$email ."<br/>";
-    $msg .= "<br/>";
-    //$msg .= "Subject : ".$subject."<br/>";    
+    $msg .= "Phone: ".$phone."<br/>";
     $msg .= "Message: ".$message."<br/>";
  
     // retrieve the ses client
@@ -56,7 +58,7 @@ Route::post('/contact', function(){
     // send the email
     $sent = $client->sendEmail(array('Source' => 'philip@thediamondexchange.co.uk', 
                                      'Destination' => array( 'ToAddresses' => array('philip@thediamondexchange.co.uk')),
-                                     'Message' => array('Subject' => array('Data' => 'From Diamond Exchange Website'),
+                                     'Message' => array('Subject' => array('Data' => 'From London DE Website'),
                                      'Body' => array('Html' => array('Data' => $msg)))));    
 
     if($sent) {
