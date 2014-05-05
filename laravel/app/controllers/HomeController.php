@@ -70,7 +70,7 @@ class HomeController extends BaseController
      */
     public function investInWaterRights()
     {
-        return View::make('investInGermanProperty')->nest(
+        return View::make('investInWaterRights')->nest(
             'nav',
             'includes.nav',
             array('page' => action('HomeController@investInWaterRights'))
@@ -88,6 +88,20 @@ class HomeController extends BaseController
             'nav',
             'includes.nav',
             array('page' => action('HomeController@contactUs'))
+        );
+    }
+
+    /**
+     * disclaimer page
+     *
+     * @return mixed
+     */
+    public function disclaimer()
+    {
+        return View::make('disclaimer')->nest(
+            'nav',
+            'includes.nav',
+            array('page' => action('HomeController@disclaimer'))
         );
     }
 }

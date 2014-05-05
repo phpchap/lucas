@@ -63,7 +63,8 @@ readyState(function()
     /**
      * Panel offset
      */
-    $('.panel').css({'margin-top':$('#header').height()});
+    var m_height = ($('#header').height());
+    $('.panel').css({'margin-top': m_height });
 
     /**
      * Crossroad
@@ -165,7 +166,7 @@ readyState(function()
 
     /**
      * Vegas background image slider
- */
+     */
     $.vegas('slideshow',
     {
         delay: 10000,
@@ -202,8 +203,3 @@ readyState(function()
     $('.flexslider').flexslider();
 
 });
-
-jQuery.validator.addMethod('phoneUK', function(phone_number, element) {
-    return this.optional(element) || phone_number.length > 9 &&
-        phone_number.match(/^(((\+44)? ?(\(0\))? ?)|(0))( ?[0-9]{3,4}){3}$/);
-}, 'Please specify a valid phone number');

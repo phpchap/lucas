@@ -1,20 +1,12 @@
 @extends('layouts.master')
 
-@section('title')
-London DE Limited - Home
-@stop
+@section('title')London DE Limited - Invest in Diamonds@stop
 
-@section('description')
-Invest in Diamonds, Gold, German Property, Water Rights, Investment
-@stop
+@section('description')Invest in Diamonds@stop
 
-@section('author')
-London DE
-@stop
+@section('author')London DE@stop
 
-@section('keywords')
-Diamonds, Gold, German Property, Water Rights, Investment
-@stop
+@section('keywords')Diamonds, Invest in Diamonds@stop
 
 @section('nav')
 <?php echo $nav; ?>
@@ -39,15 +31,16 @@ Diamonds, Gold, German Property, Water Rights, Investment
                 <div class="span12 content">
                     <div class="row-fluid">
                         <div class="span6">
-                            <ul>
-                                <li><h2><a class="" data-nav="scroll" href="#/invest-in-rare-diamonds">INVESTING IN DIAMONDS</a></h2></li>
+                            <h3>Lorem ipsum dolor sit amet, consectetur</h3>
+                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer mollis pretium arcu, et iaculis elit molestie eu. Nunc faucibus ante et nulla fringilla, a commodo massa adipiscing. Praesent aliquet varius diam, at congue massa viverra in. In dignissim nisi at velit pretium consequat. Duis tristique magna quam, non fermentum lectus fermentum eu. Quisque et est eu ante fringilla adipiscing et non magna. Ut blandit consequat nulla ut mattis. Curabitur dui lorem, sodales a metus at, dignissim aliquam quam. Vivamus leo elit, sodales in gravida sit amet, mollis at sapien. Aliquam porttitor felis quis nulla consectetur, a dignissim mi feugiat. Cras ac nunc mauris.</p>
+                        </div>
+                        <div class="span6">
+                            <ul class="snavigation">
+                                <li><h2><a class="navigation" data-nav="scroll" href="#/invest-in-rare-diamonds">INVESTING IN DIAMONDS</a></h2></li>
                                 <li><h2><a class="navigation" data-nav="scroll" href="#/rare-diamond-guide">DIAMOND GUIDE</a></h2></li>
                                 <li><h2><a class="navigation" data-nav="scroll" href="#/supply-vs-demand">SUPPLY VS. DEMAND</a></h2></li>
                                 <li><h2><a class="navigation" data-nav="scroll" href="#/diamond-prices">DIAMOND PRICES</a></h2></li>
                             </ul>
-                        </div>
-                        <div class="span6">
-
                         </div>
                     </div>
                 </div>

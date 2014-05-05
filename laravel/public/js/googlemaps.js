@@ -1,6 +1,6 @@
 $(function() {
 
-	var latlng = new google.maps.LatLng(57.0442, 9.9116);
+	var latlng = new google.maps.LatLng(51.493838, -0.154456);
 	var settings = {
 		zoom: 15,
 		scrollwheel: false,
@@ -12,7 +12,7 @@ $(function() {
 		mapTypeId: google.maps.MapTypeId.ROADMAP};
 	var map = new google.maps.Map(document.getElementById("map_canvas"), settings);
 	var contentString = '<div style="color: black">'+
-		'<h4>Ember</h4>'+
+		'<h4>London DE LTD</h4>'+
 		'</div>';
 	var infowindow = new google.maps.InfoWindow({
 		content: contentString
@@ -29,14 +29,14 @@ $(function() {
 		new google.maps.Point(0,0),
 		new google.maps.Point(50, 50));
 
-	var companyPos = new google.maps.LatLng(57.0442, 9.9116);
+	var companyPos = new google.maps.LatLng(51.493838, -0.154456);
 
 	var companyMarker = new google.maps.Marker({
 		position: companyPos,
 		map: map,
 		icon: companyImage,
 		shadow: companyShadow,
-		title:"The Diamond Trading HQ",
+		title:"London DE LTD",
 		zIndex: 3});
 
 	google.maps.event.addListener(companyMarker, 'click', function() {

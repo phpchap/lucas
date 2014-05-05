@@ -29,6 +29,9 @@ Route::any('/invest-in-water-rights', 'HomeController@investInWaterRights');
 // contact us
 Route::any('/contact-us', 'HomeController@contactUs');
 
+// disclaimer
+Route::any('/disclaimer', 'HomeController@disclaimer');
+
 // contact page AJAX send to Amazon SES
 Route::any('/contact', function(){
 
