@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>London DE Limited</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta name="description" content="Diamond Investment"/>
+    <meta name="author" content="Diamond Investment"/>
+    <meta charset="utf-8"/>
+    <link
+        href="data:image/x-icon;base64,AAABAAEAEBAQAAEABAAoAQAAFgAAACgAAAAQAAAAIAAAAAEABAAAAAAAgAAAAAAAAAAAAAAAEAAAAAAAAAD/kesAAAAAAP9j4gD/zPYA////AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAERERERERFBEREREREREUERERERERFEREEREREAERFBEREREAABEUEREREzMzIRERERE0A0MzERERFEMEQzQxEREEMCREA0MRECMCJEQgMgEQNERERERDAREEREREREARERA0REQzAREUEREREREREURBERERERERFBERERERERH/+wAA//sAAP5gAAD8OwAA+BsAAPAPAADgBwAAwAMAAIABAAAAAAAAAAAAAIABAADAAwAAoAcAAB//AAC//wAA"
+        rel="icon" type="image/x-icon"/>
+    <link href="css/bootstrap.min.css" rel="stylesheet" media="screen"/>
+    <link href="css/font-awesome.min.css" rel="stylesheet" media="screen"/>
+    <link href="css/flexslider.css" rel="stylesheet" media="screen"/>
+    <link href="css/jquery.vegas.css" rel="stylesheet" media="screen"/>
+    <link href="css/style.min.css" rel="stylesheet" media="screen"/>
+    <!--[if IE 7]>
+    <link href="css/font-awesome-ie7.css" rel="stylesheet">
+    <![endif]-->
+    <!--[if lt IE 9]>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <!--[if gte IE 9]>
+    <style type="text/css">
+    </style>
+    <![endif]-->
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/jquery.validate.js"></script>
+    <script type="text/javascript">
+        $().ready(function () {
+            // validate the comment form when it is submitted
+            $("#commentForm").validate({
+                submitHandler: function () {
+                    // gather
+                    var d_name = $("#cname").val();
+                    var d_email = $("#cemail").val();
+                    var d_comment = $("#ccomment").val();
+                    // post it..
+                    $.post("<?php echo url('/contact'); ?>", { name: d_name, email: d_email, comment: d_comment }, function (data, status) {
+                        if (status == "success") {
+                            $("#commentForm").html("<h2>Thanks for sending us a message, we will be in touch soon</h2>");
+                        } else {
+                            $("#commentForm").html("<h2>There was an error sending the message, please try again</h2>");
+                        }
+                    });
+                }
+            });
+        });
+    </script>
+</head>
+
+<body>
+
+<a id="back-top" href="javascript:void(0)"><i class="icon-chevron-up"></i></a>
+
+<!-- header -->
+<header id="header">
+    <div class="container">
+        <div class="row-fluid">
+            <div class="span12">
+                <div class="navbar">
+                    <div class="navbar-inner">
+                        <a class="btn btn-navbar" data-toggle="collapse"
+                           data-target=".nav-collapse">
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </a>
+
+                        <a class="brand" href="javascript:void(0)">
+                            <h1 id="logo">London DE</h1>
+                        </a>
+                        @yield('nav')
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+<!-- investment -->
+<section id="home" class="box">
+    <div class="container">
+        <div class="panel">
+            <div class="row-fluid">
+                @yield('intro')
+            </div>
+        </div>
+    </div>
+</section>
+
+@yield('first_section')
+
+@yield('second_section')
+
+@yield('third_section')
+
+@yield('fourth_section')
+
+<!-- ligthbox -->
+<div style="display: none;" id="lightbox"><img id="bigimg" src=""/></div>
+
+<!-- scripts -->
+<script type="text/javascript" src="js/signals.min.js"></script>
+<script type="text/javascript" src="js/crossroads.min.js"></script>
+<script type="text/javascript" src="js/hasher.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/jquery.vegas.js"></script>
+<script type="text/javascript" src="js/jquery.flexslider-min.js"></script>
+<script type="text/javascript"
+        src="http://maps.google.com/maps/api/js?sensor=false"></script>
+<script type="text/javascript" src="js/googlemaps.js"></script>
+<script type="text/javascript" src="js/theme.js"></script>
+</body>
+</html>

@@ -130,13 +130,13 @@ readyState(function()
      */    
     $('#back-top').click(function(event)
     {
-        $('#navigation a[data-nav="scroll"]').removeClass('active');
-
-        var firstItem = $('#navigation a[data-nav="scroll"]:first');
-        
-        firstItem.addClass('active');
-
-        hasher.setHash(firstItem.attr('href').replace('#/', ''));
+//        $('#navigation a[data-nav="scroll"]').removeClass('active');
+//
+//        var firstItem = $('#navigation a[data-nav="scroll"]:first');
+//
+//        firstItem.addClass('active');
+//
+//        hasher.setHash(firstItem.attr('href').replace('#/', ''));
 
         $('html, body').animate({ scrollTop: 0 }, 800);
         

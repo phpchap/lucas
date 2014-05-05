@@ -11,9 +11,23 @@
 |
 */
 
-Route::get('/', function(){
-    return View::make('index');
-});
+// home page
+Route::any('/', 'HomeController@home');
+
+// invest in diamonds
+Route::any('/invest-in-diamonds', 'HomeController@investInDiamonds');
+
+// invest in gold
+Route::any('/invest-in-gold', 'HomeController@investInGold');
+
+// invest in german property
+Route::any('/invest-in-german-property', 'HomeController@investInGermanProperty');
+
+// invest in german property
+Route::any('/invest-in-water-rights', 'HomeController@investInWaterRights');
+
+// contact us
+Route::any('/contact-us', 'HomeController@contactUs');
 
 // contact page AJAX send to Amazon SES
 Route::post('/contact', function(){
