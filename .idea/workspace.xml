@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d5c6b87-9e57-4fb4-ad85-c12493740913" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/app/views/includes/contactForm.blade.php" afterPath="$PROJECT_DIR$/laravel/app/views/includes/contactForm.blade.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/public/css/style.min.css" afterPath="$PROJECT_DIR$/laravel/public/css/style.min.css" />
     </list>
     <ignored path="lucasgeorge.iws" />
@@ -98,7 +97,7 @@
       <file leaf-file-name="style.min.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/laravel/public/css/style.min.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="231" column="16" selection-start="4475" selection-end="4475" vertical-scroll-proportion="0.45648313" vertical-offset="2977" max-vertical-offset="10584">
+            <state line="232" column="18" selection-start="4498" selection-end="4498" vertical-scroll-proportion="0.48134992" vertical-offset="2977" max-vertical-offset="10584">
               <folding />
             </state>
           </provider>
@@ -487,7 +486,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/laravel/public/css/style.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="231" column="16" selection-start="4475" selection-end="4475" vertical-scroll-proportion="0.45648313" vertical-offset="2977" max-vertical-offset="10584">
+        <state line="232" column="18" selection-start="4498" selection-end="4498" vertical-scroll-proportion="0.48134992" vertical-offset="2977" max-vertical-offset="10584">
           <folding />
         </state>
       </provider>
