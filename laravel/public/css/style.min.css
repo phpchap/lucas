@@ -37,6 +37,12 @@ a
     color: #ffd675;
 }
 
+.title {
+    background: rgba(0, 0, 0, 1);
+    padding:5px;
+    margin: 0px 0px 10px 0px;
+}
+
 a:hover
 {
     color: #ffd675;
@@ -759,12 +765,12 @@ ul
 
 }
 
-h2 .navigation {
-    color: #292929;
-}
+/*h2 .navigation {*/
+    /*color: #292929;*/
+/*}*/
 
 h2 .navigation:hover {
-    color: #ffd675;
+    color: #fff;
 }
 .snavigation {
     list-style: none;

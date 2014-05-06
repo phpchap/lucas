@@ -48,18 +48,18 @@ $waterUrl   = action('HomeController@investInWaterRights');
                     <div class="row-fluid">
                         <div class="span2">
                             <a href="<?php echo $diamondUrl; ?>"><img class="img-polaroid"
-                                 src="http://placehold.it/350x350"/></a>
+                                 src="/img/diamond.jpg"/></a>
                         </div>
                         <div class="span4">
-                            <h3><a href="<?php echo $diamondUrl; ?>">Invest in Diamonds</a></h3>
+                            <h2 class="title"><a href="<?php echo $diamondUrl; ?>">Invest in Diamonds</a></h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer eu nisi sit amet sem rutrum scelerisque.</p>
                         </div>
                         <div class="span2">
                             <a href="<?php echo $goldUrl; ?>"><img class="img-polaroid"
-                                 src="http://placehold.it/350x350"/></a>
+                                 src="/img/gold.jpg"/></a>
                         </div>
                         <div class="span4">
-                            <h3><a href="<?php echo $goldUrl; ?>">Invest in Gold</a></h3>
+                            <h2 class="title"><a href="<?php echo $goldUrl; ?>">Invest in Gold</a></h2>
                             <p>In scelerisque convallis nisi non feugiat. In tempor magna id viverra pharetra. Nulla eu lectus sit amet sem fringilla commodo eu molestie velit</p>
                         </div>
                     </div>
@@ -67,18 +67,18 @@ $waterUrl   = action('HomeController@investInWaterRights');
                     <div class="row-fluid">
                         <div class="span2">
                             <a href="<?php echo $germanUrl; ?>"><img class="img-polaroid"
-                                 src="http://placehold.it/350x350"/></a>
+                                 src="/img/german_property_home.jpg"/></a>
                         </div>
                         <div class="span4">
-                            <h3><a href="<?php echo $germanUrl; ?>">Invest in German Property</a></h3>
+                            <h2 class="title"><a href="<?php echo $germanUrl; ?>">Invest in German Property</a></h2>
                             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer eu nisi sit amet sem rutrum scelerisque.</p>
                         </div>
                         <div class="span2">
                             <a href="<?php echo $waterUrl; ?>"><img class="img-polaroid"
-                                 src="http://placehold.it/350x350"/></a>
+                                 src="/img/dam.jpg"/></a>
                         </div>
                         <div class="span4">
-                            <h3><a href="<?php echo $waterUrl; ?>">Invest in Water Rights</a></h3>
+                            <h2 class="title"><a href="<?php echo $waterUrl; ?>">Invest in Water Rights</a></h2>
                             <p>In scelerisque convallis nisi non feugiat. In tempor magna id viverra pharetra. Nulla eu lectus sit amet sem fringilla commodo eu molestie velit</p>
                         </div>
                     </div>

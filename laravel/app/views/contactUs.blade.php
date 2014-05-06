@@ -39,7 +39,7 @@ Diamonds, Gold, German Property, Water Rights, Investment
                             @include('includes.form')
                         </div>
                         <div class="span6">
-                            <h2>London DE Limited</h2>
+                            <h2 class="title"><a href="">London DE Limited</a></h2>
                             <p>2 Eaton Gate</p>
                             <p>London</p>
                             <p>SW1W 9BJ</p>

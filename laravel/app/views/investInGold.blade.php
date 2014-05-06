@@ -44,9 +44,9 @@ Gold, Invest in Gold
                         </div>
                         <div class="span6">
                             <ul class="snavigation">
-                                <li><h2><a class="navigation" data-nav="scroll" href="#/invest-in-gold">INVESTMENT IN GOLD</a></h2></li>
-                                <li><h2><a class="navigation" data-nav="scroll" href="#/gold-coins">GOLD COINS</a></h2></li>
-                                <li><h2><a class="navigation" data-nav="scroll" href="#/technical-specification">TECHNICAL SPECIFICATION</a></h2></li>
+                                <li><h2 class="title"><a class="navigation" data-nav="scroll" href="#/invest-in-gold">INVESTMENT IN GOLD</a></h2></li>
+                                <li><h2 class="title"><a class="navigation" data-nav="scroll" href="#/gold-coins">GOLD COINS</a></h2></li>
+                                <li><h2 class="title"><a class="navigation" data-nav="scroll" href="#/technical-specification">TECHNICAL SPECIFICATION</a></h2></li>
                             </ul>
                         </div>
                     </div>

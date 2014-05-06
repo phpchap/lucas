@@ -46,8 +46,8 @@ German Property, Invest in German Property
                         </div>
                         <div class="span6">
                             <ul class="snavigation">
-                                <li><h2><a class="navigation" data-nav="scroll" href="#/why-invest">WHY INVEST IN GERMAN FREEHOLD PROPERTY?</a></h2></li>
-                                <li><h2><a class="navigation" data-nav="scroll" href="#/german-property-market">DETAILS ABOUT THE GERMAN PROPERTY MARKET</a></h2></li>
+                                <li><h2 class="title"><a class="navigation" data-nav="scroll" href="#/why-invest">WHY INVEST IN GERMAN FREEHOLD PROPERTY?</a></h2></li>
+                                <li><h2 class="title"><a class="navigation" data-nav="scroll" href="#/german-property-market">DETAILS ABOUT THE GERMAN PROPERTY MARKET</a></h2></li>
                             </ul>
                         </div>
                     </div>
@@ -73,7 +73,7 @@ German Property, Invest in German Property
             <div class="row-fluid">
                 <div class="span12 content">
                     <div class="row-fluid">
-                        <div class="span8">
+                        <div class="span7">
                             <ol>
                                 <li>Many industry professionals believe the German property market is seriously undervalued at present.</li>
                                 <li>Unlike the London market an entry level German investment property in close proximity to Berlin can be sourced from as little as &euro;50,000</li>
@@ -82,12 +82,11 @@ German Property, Invest in German Property
                                 <li>Equal Economical Conditions - Unlike other countries that discriminate local and overseas investors, Germany offers equal benefits and limitation to any investor without notice country of origin.</li>
                             </ol>
                         </div>
-                        <div class="span4">
+                        <div class="span5">
                             <img class="img-polaroid"
-                                 src="http://placehold.it/350x350"
-                                 title="Image"
-                                 alt="Image"/>
-                            <p style="text-align: center">Description of image</p>
+                                 src="/img/german_property.jpg"
+                                 title="German Property"
+                                 alt="German Property"/>
                         </div>
                     </div>
                 </div>
@@ -112,19 +111,18 @@ German Property, Invest in German Property
             <div class="row-fluid">
                 <div class="span12 content">
                     <div class="row-fluid">
-                        <div class="span8">
+                        <div class="span7">
                             <h3>Contact us today for full information on available opportunities.</h3>
                             <p>Unlike the UK, Germany is yet to experience a bull market in property and prices have remained stable leaving plenty of upside potential. </p>
                             <p>We believe this upside could be seen in the next 3 - 5 years hence we are offering freehold property in close proximity to the Berlin area.</p>
                             <p>Unlike fractional ownership schemes, time share and pooled funds we believe it always makes good business sense to own an asset outright, in your name as the 100% legal owner.</p>
                             <p>Our management team have access to a large number of properties and have all the necessary legal contacts to ensure your purchase is swift and secure.</p>
                         </div>
-                        <div class="span4">
+                        <div class="span5">
                             <img class="img-polaroid"
-                                 src="http://placehold.it/350x350"
-                                 title="Image"
-                                 alt="Image"/>
-                            <p style="text-align: center">Description of image</p>
+                                 src="/img/bull_market.jpg"
+                                 title="Bull Market"
+                                 alt="Bull Market"/>
                         </div>
                     </div>
                 </div>

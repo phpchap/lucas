@@ -36,10 +36,10 @@
                         </div>
                         <div class="span6">
                             <ul class="snavigation">
-                                <li><h2><a class="navigation" data-nav="scroll" href="#/invest-in-rare-diamonds">INVESTING IN DIAMONDS</a></h2></li>
-                                <li><h2><a class="navigation" data-nav="scroll" href="#/rare-diamond-guide">DIAMOND GUIDE</a></h2></li>
-                                <li><h2><a class="navigation" data-nav="scroll" href="#/supply-vs-demand">SUPPLY VS. DEMAND</a></h2></li>
-                                <li><h2><a class="navigation" data-nav="scroll" href="#/diamond-prices">DIAMOND PRICES</a></h2></li>
+                                <li><h2 class="title"><a class="navigation" data-nav="scroll" href="#/invest-in-rare-diamonds">INVESTING IN DIAMONDS</a></h2></li>
+                                <li><h2 class="title"><a class="navigation" data-nav="scroll" href="#/rare-diamond-guide">DIAMOND GUIDE</a></h2></li>
+                                <li><h2 class="title"><a class="navigation" data-nav="scroll" href="#/supply-vs-demand">SUPPLY VS. DEMAND</a></h2></li>
+                                <li><h2 class="title"><a class="navigation" data-nav="scroll" href="#/diamond-prices">DIAMOND PRICES</a></h2></li>
                             </ul>
                         </div>
                     </div>

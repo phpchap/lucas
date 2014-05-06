@@ -44,8 +44,8 @@ Water Rights, Invest in Water Rights
                         </div>
                         <div class="span6">
                             <ul class="snavigation">
-                                <li><h2><a class="navigation" data-nav="scroll" href="#/invest-in-water-rights">Investing in Water Rights</a></h2></li>
-                                <li><h2><a class="navigation" data-nav="scroll" href="#/why-invest-in-water-rights">Why Invest in Water Rights?</a></h2></li>
+                                <li><h2 class="title"><a class="navigation" data-nav="scroll" href="#/invest-in-water-rights">Investing in Water Rights</a></h2></li>
+                                <li><h2 class="title"><a class="navigation" data-nav="scroll" href="#/why-invest-in-water-rights">Why Invest in Water Rights?</a></h2></li>
                             </ul>
                         </div>
                     </div>
