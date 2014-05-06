@@ -13,7 +13,7 @@ London DE
 @stop
 
 @section('keywords')
-German Property, Invest in Water Rights
+Water Rights, Invest in Water Rights
 @stop
 
 @section('nav')
@@ -31,7 +31,7 @@ German Property, Invest in Water Rights
             <div class="row-fluid">
                 <div class="span12 header">
                     <hgroup>
-                        <h2>Lorem ipsum dolor sit amet</h2>
+                        <h2>Guide to Investing in Water Rights</h2>
                     </hgroup>
                 </div>
             </div>
@@ -40,15 +40,12 @@ German Property, Invest in Water Rights
                     <div class="row-fluid">
                         <div class="span5">
                             <h3>Aliquam eget tellus augue</h3>
-                            <p>Cras non semper ipsum, venenatis tempus enim. Integer id felis mi. Vivamus euismod in orci vehicula bibendum.</p>
-                            <p>Donec consectetur ipsum eu nisl fringilla aliquet. Vestibulum ultricies tortor in neque facilisis, non sollicitudin risus ullamcorper.</p>
-                            <p>Quisque urna tortor, rhoncus id tellus vel, rutrum varius nisi. Vivamus ante orci, rutrum vitae cursus in, porttitor eu ligula.</p>
-                            <p>Nullam bibendum nulla nec molestie aliquet. Nullam eu justo dolor. Vivamus at consequat arcu, non gravida tortor.</p>
+                            <p>Water trading is a voluntary exchange or transfer of a quantifiable water allocation between a willing buyer and seller.</p>
                         </div>
                         <div class="span6">
                             <ul class="snavigation">
-                                <li><h2><a class="navigation" data-nav="scroll" href="#/why-invest">Suspendisse eget ante</a></h2></li>
-                                <li><h2><a class="navigation" data-nav="scroll" href="#/german-property-market">Lorem ipsum dolor sit ame</a></h2></li>
+                                <li><h2><a class="navigation" data-nav="scroll" href="#/invest-in-water-rights">Investing in Water Rights</a></h2></li>
+                                <li><h2><a class="navigation" data-nav="scroll" href="#/why-invest-in-water-rights">Why Invest in Water Rights?</a></h2></li>
                             </ul>
                         </div>
                     </div>
@@ -60,32 +57,34 @@ German Property, Invest in Water Rights
 @stop
 
 @section('first_section')
-<!-- investment -->
-<section id="why-invest" class="box">
+<!-- invest-in-water-rights -->
+<section id="invest-in-water-rights" class="box">
     <div class="container">
         <div class="panel">
             <div class="row-fluid">
                 <div class="span12 header">
                     <hgroup>
-                        <h2>Suspendisse eget ante</h2>
+                        <h2>Investing in Water Rights</h2>
                     </hgroup>
                 </div>
             </div>
             <div class="row-fluid">
                 <div class="span12 content">
                     <div class="row-fluid">
-                        <div class="span8">
-                            <p>Praesent rhoncus lacus at lobortis aliquet. Curabitur mollis eget ligula in elementum.</p>
-                            <p>Nam feugiat quam blandit, egestas mi vel, faucibus leo. Etiam nec turpis at mauris viverra iaculis et a enim.</p>
-                            <p>Vestibulum faucibus adipiscing sapien. Nullam dapibus nunc faucibus, vestibulum metus id, venenatis ipsum.</p>
-                            <p>Aliquam tincidunt enim vehicula, ultrices turpis sit amet, tristique sapien.</p>
-                        </div>
-                        <div class="span4">
+                        <div class="span3">
                             <img class="img-polaroid"
-                                 src="http://placehold.it/350x350"
-                                 title="Image"
-                                 alt="Image"/>
-                            <p style="text-align: center">Description of image</p>
+                                 src="/img/KyungAhPark.jpg"
+                                 title="Kyung-Ah Park"
+                                 alt="Kyung-Ah Park"/>
+                            <p>Kyung-Ah Park</p>
+                        </div>
+                        <div class="span9">
+                            <p>Water trading is a voluntary exchange or transfer of a quantifiable water allocation between a willing buyer and seller.</p>
+                            <p>In a water trading market, the seller holds a water right or entitlement that is surplus to his current water demand, and the buyer faces a water deficit and is willing to pay to meet his water demand.</p>
+                            <blockquote style="margin: 15px 0 0 0;">
+                                <p>"Investing in water utilities, infrastructure and water rights offers stable, long-term returns"</p>
+                                <footer><cite title="Kyung-Ah Park">Kyung-Ah Park</cite> Goldman Sachs Group Inc. 2013</footer>
+                            </blockquote>
                         </div>
                     </div>
                 </div>
@@ -97,13 +96,13 @@ German Property, Invest in Water Rights
 
 @section('second_section')
 <!-- investment -->
-<section id="german-property-market" class="box">
+<section id="why-invest-in-water-rights" class="box">
     <div class="container">
         <div class="panel">
             <div class="row-fluid">
                 <div class="span12 header">
                     <hgroup>
-                        <h2>Lorem ipsum dolor sit ame</h2>
+                        <h2>Why Invest in Water Rights?</h2>
                     </hgroup>
                 </div>
             </div>
@@ -112,16 +111,20 @@ German Property, Invest in Water Rights
                     <div class="row-fluid">
                         <div class="span3">
                             <img class="img-polaroid"
-                                 src="http://placehold.it/350x350"
-                                 title="Image"
-                                 alt="Image"/>
-                            <p style="text-align: center">Description of image</p>
+                                 src="/img/dam.jpg"
+                                 title="Water Dam"
+                                 alt="Water Dam"/>
                         </div>
                         <div class="span9">
-                            <h3>In tempor magna id viverra pharetra.</h3>
-                            <p>Aenean dictum iaculis metus eget laoreet. Vestibulum non est ut lorem suscipit fermentum lacinia ac turpis.</p>
-                            <p>Curabitur id leo gravida diam sodales ultricies at vitae ipsum. Nullam lacinia risus nisl, vitae commodo est sagittis vitae.</p>
-                            <p>Praesent ac convallis tellus. Nam in leo ante. Suspendisse potenti.</p>
+                            <p>The three biggest industries in the world at the moment are:</p>
+                            <ul style="margin: 0 0 10px 25px">
+                                <li>Oil & Gas</li>
+                                <li>Electricity</li>
+                                <li>Water (Valued at over $500B per annum.)</li>
+                            </ul>
+                            <p>The only principle difference between water and the others are that water cannot be replaced or manufactured.</p>
+                            <p>Power sources such as Nuclear, Solar, Wind, Bio Fuels and coal can all be replicated and interchanged whilst water can never be reproduced at any cost.</p>
+                            <p>The opportunities that await investors within the water market are immense.</p>
                         </div>
                     </div>
                 </div>

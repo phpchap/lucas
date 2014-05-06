@@ -51,7 +51,7 @@ Diamonds, Gold, German Property, Water Rights, Investment
                         </div>
                     </div>
                     <div class="row-fluid">
-                        <div class="span12 content">
+                        <div class="span12 content" style="margin: 0;padding: 0">
                             <div class="row-fluid">
                                 <div class="span12">
                                     <div id="map_canvas"></div>

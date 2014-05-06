@@ -285,6 +285,14 @@ ul
     border-bottom-left-radius: 10px;
 }
 
+.content_noround
+{
+    background: whitesmoke;
+    padding: 30px 90px 0px 90px;
+    /*    text-align: justify;
+        text-justify: inter-word;*/
+}
+
 #more_info_content {
     background: whitesmoke;
     padding: 10px 10px 10px 30px;
