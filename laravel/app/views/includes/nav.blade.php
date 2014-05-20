@@ -10,7 +10,7 @@ $disclaimerUrl = action('HomeController@disclaimer');
 
 ?>
 <div class="nav-collapse collapse">
-    <ul class="nav pull-right" id="navigation">
+    <ul class="nav pull-right" id="navigation" style="margin-top: 12px">
         <li><a href="<?php echo $homeUrl; ?>" <?php echo ($page == $homeUrl) ? 'class="active"' : ''; ?>>HOME</a></li>
         <li><a href="<?php echo $diamondUrl; ?>" <?php echo ($page == $diamondUrl) ? 'class="active"' : ''; ?>>INVEST IN DIAMONDS</a></li>
         <li><a href="<?php echo $goldUrl; ?>" <?php echo ($page == $goldUrl) ? 'class="active"' : ''; ?>>INVEST IN GOLD</a></li>

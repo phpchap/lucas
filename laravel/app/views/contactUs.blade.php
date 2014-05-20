@@ -40,8 +40,8 @@ Diamonds, Gold, German Property, Water Rights, Investment
                         </div>
                         <div class="span6">
                             <h2 class="title"><a href="">Branson Ridley Limited</a></h2>
-                            <h3>Branson-Ridley is a Trade Mark of London DE 
-                                Limited</h3>
+                            <h4>Branson-Ridley is a Trade Mark of London DE
+                                Limited</h4>
                             <p>88 Wood Street</p>
                             <p>London</p>
                             <p>EC2V 7RS</p>

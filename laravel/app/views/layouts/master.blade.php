@@ -69,7 +69,8 @@
                             <span class="icon-bar"></span>
                         </a>
                         <a class="brand" href="javascript:void(0)">
-                            <h1 id="logo">London DE</h1>
+                            <h1 style="margin: 0" id="logo"><img
+                                    src="/img/bransan_ridely_logo.png"/> </h1>
                         </a>
                         @yield('nav')
                     </div>
