@@ -1,23 +1,107 @@
 <?php
 
-class HomeController extends BaseController {
+class HomeController extends BaseController
+{
+    /**
+     * The layout that should be used for responses.
+     */
+    protected $layout = 'layouts.master';
 
-	/*
-	|--------------------------------------------------------------------------
-	| Default Home Controller
-	|--------------------------------------------------------------------------
-	|
-	| You may wish to use controllers instead of, or in addition to, Closure
-	| based routes. That's great! Here is an example controller method to
-	| get you started. To route to this controller, just add the route:
-	|
-	|	Route::get('/', 'HomeController@showWelcome');
-	|
-	*/
+    /**
+     * homepage
+     *
+     * @return mixed
+     */
+    public function home()
+    {
+        return View::make('home')->nest(
+            'nav',
+            'includes.nav',
+            array('page' => action('HomeController@home'))
+        );
+    }
 
-	public function showWelcome()
-	{
-		return View::make('hello');
-	}
+    /**
+     * investInDiamonds page
+     *
+     * @return mixed
+     */
+    public function investInDiamonds()
+    {
+        return View::make('investInDiamonds')->nest(
+            'nav',
+            'includes.nav',
+            array('page' => action('HomeController@investInDiamonds'))
+        );
+    }
 
+    /**
+     * investInGold page
+     *
+     * @return mixed
+     */
+    public function investInGold()
+    {
+        return View::make('investInGold')->nest(
+            'nav',
+            'includes.nav',
+            array('page' => action('HomeController@investInGold'))
+        );
+    }
+
+    /**
+     * investInGermanProperty page
+     *
+     * @return mixed
+     */
+    public function investInGermanProperty()
+    {
+        return View::make('investInGermanProperty')->nest(
+            'nav',
+            'includes.nav',
+            array('page' => action('HomeController@investInGermanProperty'))
+        );
+    }
+
+    /**
+     * investInWaterRights page
+     *
+     * @return mixed
+     */
+    public function investInWaterRights()
+    {
+        return View::make('investInWaterRights')->nest(
+            'nav',
+            'includes.nav',
+            array('page' => action('HomeController@investInWaterRights'))
+        );
+    }
+
+    /**
+     * contactUs page
+     *
+     * @return mixed
+     */
+    public function contactUs()
+    {
+        return View::make('contactUs')->nest(
+            'nav',
+            'includes.nav',
+            array('page' => action('HomeController@contactUs'))
+        );
+    }
+
+    /**
+     * disclaimer page
+     *
+     * @return mixed
+     */
+    public function disclaimer()
+    {
+        return View::make('disclaimer')->nest(
+            'nav',
+            'includes.nav',
+            array('page' => action('HomeController@disclaimer'))
+        );
+    }
 }

@@ -63,7 +63,8 @@ readyState(function()
     /**
      * Panel offset
      */
-    $('.panel').css({'margin-top':$('#header').height()});
+    var m_height = ($('#header').height());
+    $('.panel').css({'margin-top': m_height });
 
     /**
      * Crossroad
@@ -130,17 +131,22 @@ readyState(function()
      */    
     $('#back-top').click(function(event)
     {
-        $('#navigation a[data-nav="scroll"]').removeClass('active');
-
-        var firstItem = $('#navigation a[data-nav="scroll"]:first');
-        
-        firstItem.addClass('active');
-
-        hasher.setHash(firstItem.attr('href').replace('#/', ''));
+//        $('#navigation a[data-nav="scroll"]').removeClass('active');
+//
+//        var firstItem = $('#navigation a[data-nav="scroll"]:first');
+//
+//        firstItem.addClass('active');
+//
+//        hasher.setHash(firstItem.attr('href').replace('#/', ''));
 
         $('html, body').animate({ scrollTop: 0 }, 800);
         
         return false;
+    });
+
+    $('#more_info_link').bind('click', function(){
+        $('#more_info_content').slideToggle();
+
     });
 
     $('#logo').click(function(event)
