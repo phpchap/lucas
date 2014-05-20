@@ -12,7 +12,7 @@ $(function() {
 		mapTypeId: google.maps.MapTypeId.ROADMAP};
 	var map = new google.maps.Map(document.getElementById("map_canvas"), settings);
 	var contentString = '<div style="color: black">'+
-		'<h4>London DE LTD</h4>'+
+		'<h4>Branson-Ridley</h4>'+
 		'</div>';
 	var infowindow = new google.maps.InfoWindow({
 		content: contentString
@@ -36,7 +36,7 @@ $(function() {
 		map: map,
 		icon: companyImage,
 		shadow: companyShadow,
-		title:"London DE LTD",
+		title:"Branson-Ridley",
 		zIndex: 3});
 
 	google.maps.event.addListener(companyMarker, 'click', function() {

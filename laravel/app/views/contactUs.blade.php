@@ -42,9 +42,9 @@ Diamonds, Gold, German Property, Water Rights, Investment
                             <h2 class="title"><a href="">Branson Ridley</a></h2>
                             <h4>Branson-Ridley is a Trade Mark of London DE
                                 Limited</h4>
-                            <p>88 Wood Street</p>
+                            <p>2 Eaton Gate</p>
                             <p>London</p>
-                            <p>EC2V 7RS</p>
+                            <p>SW1W 9BJ</p>
                             <p>0208 528 1016</p>
                             <p>Registered in England &amp; Wales</p>
                             <p>Company Registration Number: 8806847</p>
