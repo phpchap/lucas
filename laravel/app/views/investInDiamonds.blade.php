@@ -31,8 +31,14 @@
                 <div class="span12 content">
                     <div class="row-fluid">
                         <div class="span6">
-                            <h3>Lorem ipsum dolor sit amet, consectetur</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer mollis pretium arcu, et iaculis elit molestie eu. Nunc faucibus ante et nulla fringilla, a commodo massa adipiscing. Praesent aliquet varius diam, at congue massa viverra in. In dignissim nisi at velit pretium consequat. Duis tristique magna quam, non fermentum lectus fermentum eu. Quisque et est eu ante fringilla adipiscing et non magna. Ut blandit consequat nulla ut mattis. Curabitur dui lorem, sodales a metus at, dignissim aliquam quam. Vivamus leo elit, sodales in gravida sit amet, mollis at sapien. Aliquam porttitor felis quis nulla consectetur, a dignissim mi feugiat. Cras ac nunc mauris.</p>
+                            <h3>Invest in Diamonds</h3>
+                            <p>The diamond market has grown by an average of
+                                15% year on year for the past 60 years and
+                                coloured diamonds in particular have
+                                increased in value every single year for the
+                                past 100 years!  Find out why hedge funds and
+                                institutional investors are increasingly
+                                turning to this market as a safe haven.</p>
                         </div>
                         <div class="span6">
                             <ul class="snavigation">

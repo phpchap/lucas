@@ -39,8 +39,15 @@ Water Rights, Invest in Water Rights
                 <div class="span12 content">
                     <div class="row-fluid">
                         <div class="span5">
-                            <h3>Aliquam eget tellus augue</h3>
-                            <p>Water trading is a voluntary exchange or transfer of a quantifiable water allocation between a willing buyer and seller.</p>
+                            <h3>Invest in Water Rights</h3>
+                            <p>With an annual value of over $500(US) billion,
+                                Water Rights Trading is one of the best kept
+                                secrets of the global financial markets.</p>
+                            <p>It is funding and promoting ethical water
+                                management projects around the world, which
+                                are essential if we are to supply the water
+                                requirements of the 10 billion people that
+                                will inhabit the planet by 2050. </p>
                         </div>
                         <div class="span6">
                             <ul class="snavigation">

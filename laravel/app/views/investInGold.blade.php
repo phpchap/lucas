@@ -39,8 +39,14 @@ Gold, Invest in Gold
                 <div class="span12 content">
                     <div class="row-fluid">
                         <div class="span6">
-                            <h3>Lorem ipsum dolor sit amet, consectetur</h3>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer mollis pretium arcu, et iaculis elit molestie eu. </p>
+                            <h3>Invest in Gold</h3>
+                            <p>Gold has increased in value by over 3,700% in
+                                the past 40 years and remains one of the best
+                                asset classes to diversify any portfolio.
+                                A tangible asset that has been traded for
+                                millennia, gold will often buck the trends of
+                                other markets, such as equities and bonds,
+                                during times of economic uncertainty.</p>
                         </div>
                         <div class="span6">
                             <ul class="snavigation">

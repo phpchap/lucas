@@ -39,10 +39,15 @@ German Property, Invest in German Property
                 <div class="span12 content">
                     <div class="row-fluid">
                         <div class="span5">
-                            <h3>Investment in German Property</h3>
-                            <p>Unlike the UK, Germany is yet to experience a bull market in property and prices have remained stable leaving plenty of upside potential.</p>
-                            <p>We believe this upside could be seen in the next 3 - 5 years hence we are offering freehold property in close proximity to the Berlin area.</p>
-                            <p>Unlike fractional ownership schemes, time share and pooled funds we believe it always makes good business sense to own an asset outright, in your name as the 100% legal owner.</p>
+                            <h3>Invest in German Freehold Property</h3>
+                            <p>For many years German Freehold Property prices
+                                lagged behind those of their European
+                                neighbours and they have not experienced the
+                                'bubble' effects of the UK property market.</p>
+                                <p>Furthermore, Germany enjoys an open property
+                                market which is easily accessible to foreign
+                                investors, with full-proof land registries and
+                                legal protection.</p>
                         </div>
                         <div class="span6">
                             <ul class="snavigation">
