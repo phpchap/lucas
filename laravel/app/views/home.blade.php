@@ -53,7 +53,8 @@ $waterUrl   = action('HomeController@investInWaterRights');
                         <div class="span4">
                             <h2 class="title"><a href="<?php echo $diamondUrl; ?>">Invest in Diamonds</a></h2>
                             <p>The diamond market has grown by an average of
-                                15% year on year for the past 60 years. <a
+                                15% year on year for the past 60 years.
+                                <br/><a
                                     href="<?php echo $diamondUrl; ?>"
                                     style="background: #000000">find
                                     out more.</a> </p>
@@ -67,7 +68,7 @@ $waterUrl   = action('HomeController@investInWaterRights');
                             <p>Gold has increased in value by over 3,
                                 700% in the past 40 years and remains one of
                                 the best asset classes to diversify any
-                                portfolio. <a style="background: #000000"
+                                portfolio. <br/><a style="background: #000000"
                                               href="<?php echo $goldUrl; ?>">
                                     find out more.</a> </p>
                         </div>
@@ -82,7 +83,7 @@ $waterUrl   = action('HomeController@investInWaterRights');
                             <h2 class="title"><a href="<?php echo $germanUrl; ?>">Invest in German Property</a></h2>
                             <p>German Freehold Property prices have not
                                 experienced the 'bubble' and have lagged
-                                behind their European neighbours. <a
+                                behind their European neighbours. <br/><a
                                     style="background: #000000" href="<?php
                                 echo $germanUrl; ?>">find out more.</a> </p>
                         </div>
@@ -95,7 +96,7 @@ $waterUrl   = action('HomeController@investInWaterRights');
                                                  href="<?php echo $waterUrl; ?>">Invest in Water Rights</a></h2>
                             <p>With an annual value of over $500(US) billion,
                                 Water Rights Trading is one of the best kept
-                                secrets of the global financial markets. <a
+                                secrets of the global financial markets. <br/><a
                                     style="background: #000000"
                                     href="<?php echo $waterUrl; ?>">find
                                     out more.</a>
