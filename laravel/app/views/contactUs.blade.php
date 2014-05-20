@@ -1,7 +1,7 @@
 @extends('layouts.master')
 
 @section('title')
-London DE Limited - Contact Us
+Branson Ridley Limited - Contact Us
 @stop
 
 @section('description')
@@ -39,11 +39,13 @@ Diamonds, Gold, German Property, Water Rights, Investment
                             @include('includes.form')
                         </div>
                         <div class="span6">
-                            <h2 class="title"><a href="">London DE Limited</a></h2>
-                            <p>2 Eaton Gate</p>
+                            <h2 class="title"><a href="">Branson Ridley Limited</a></h2>
+                            <h3>Branson-Ridley is a Trade Mark of London DE 
+                                Limited</h3>
+                            <p>88 Wood Street</p>
                             <p>London</p>
-                            <p>SW1W 9BJ</p>
-                            <p>0044 (0)207 859 4754</p>
+                            <p>EC2V 7RS</p>
+                            <p>0208 528 1016</p>
                             <p>Registered in England &amp; Wales</p>
                             <p>Company Registration Number: 8806847</p>
                         </div>
