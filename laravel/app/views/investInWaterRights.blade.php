@@ -1,7 +1,7 @@
 @extends('layouts.master')
 
 @section('title')
-London DE Limited - Invest in Water Rights
+Branson-Ridley - Invest in Water Rights
 @stop
 
 @section('description')
@@ -9,7 +9,7 @@ Invest in Water Rights
 @stop
 
 @section('author')
-London DE
+Branson-Ridley
 @stop
 
 @section('keywords')

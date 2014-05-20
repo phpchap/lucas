@@ -1,12 +1,20 @@
 @extends('layouts.master')
 
-@section('title')London DE Limited - Invest in Diamonds@stop
+@section('title')
+Branson-Ridley - Invest in Diamonds
+@stop
 
-@section('description')Invest in Diamonds@stop
+@section('description')
+Invest in Diamonds
+@stop
 
-@section('author')London DE@stop
+@section('author')
+Branson-Ridley
+@stop
 
-@section('keywords')Diamonds, Invest in Diamonds@stop
+@section('keywords')
+Diamonds, Invest in Diamonds
+@stop
 
 @section('nav')
 <?php echo $nav; ?>

@@ -1,7 +1,7 @@
 @extends('layouts.master')
 
 @section('title')
-Branson Ridley Limited - Contact Us
+Branson-Ridley - Contact Us
 @stop
 
 @section('description')
@@ -9,7 +9,7 @@ Invest in Diamonds, Gold, German Property, Water Rights, Investment
 @stop
 
 @section('author')
-London DE
+Branson-Ridley
 @stop
 
 @section('keywords')
@@ -39,7 +39,7 @@ Diamonds, Gold, German Property, Water Rights, Investment
                             @include('includes.form')
                         </div>
                         <div class="span6">
-                            <h2 class="title"><a href="">Branson Ridley Limited</a></h2>
+                            <h2 class="title"><a href="">Branson Ridley</a></h2>
                             <h4>Branson-Ridley is a Trade Mark of London DE
                                 Limited</h4>
                             <p>88 Wood Street</p>

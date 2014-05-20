@@ -1,7 +1,7 @@
 @extends('layouts.master')
 
 @section('title')
-London DE Limited - Home
+Branson-Ridley - Home
 @stop
 
 @section('description')
@@ -9,7 +9,7 @@ Invest in Diamonds, Gold, German Property, Water Rights, Investment
 @stop
 
 @section('author')
-London DE
+Branson-Ridley
 @stop
 
 @section('keywords')
@@ -39,7 +39,7 @@ $waterUrl   = action('HomeController@investInWaterRights');
             <div class="row-fluid">
                 <div class="span12 header">
                     <hgroup>
-                        <h2>Welcome to London DE LTD</h2>
+                        <h2>Welcome to Branson-Ridley</h2>
                     </hgroup>
                 </div>
             </div>

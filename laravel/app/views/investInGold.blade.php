@@ -1,7 +1,7 @@
 @extends('layouts.master')
 
 @section('title')
-London DE Limited - Invest in Gold
+Branson-Ridley - Invest in Gold
 @stop
 
 @section('description')
@@ -9,7 +9,7 @@ Invest in Gold
 @stop
 
 @section('author')
-London DE
+Branson-Ridley
 @stop
 
 @section('keywords')

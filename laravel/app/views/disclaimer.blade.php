@@ -1,7 +1,7 @@
 @extends('layouts.master')
 
 @section('title')
-Branson Ridley Limited - Disclaimer
+Branson Ridley - Disclaimer
 @stop
 
 @section('description')
@@ -39,7 +39,7 @@ Diamonds, Gold, German Property, Water Rights, Investment
                 <div class="span12 content">
                     <div class="row-fluid">
                         <div class="span12">
-                            <p>Branson-Ridley Limited acts only as an introducer (for investment products that are currently not regulated by the Financial Conduct Authority) in respect of regulated activities and/or products and therefore seeks to rely on introducer exemptions in Article 33 and 33A of the Financial Services and Markets Act 2000/01.</p>
+                            <p>Branson-Ridley acts only as an introducer (for investment products that are currently not regulated by the Financial Conduct Authority) in respect of regulated activities and/or products and therefore seeks to rely on introducer exemptions in Article 33 and 33A of the Financial Services and Markets Act 2000/01.</p>
                             <p>Branson-Ridley does not operate any form of collective investment scheme, nor can Branson-Ridley offer any form of investment advice.</p>
                             <p>The purchase of our products is speculative and they are not low risk.  Purchasing our products for investment purposes is done on the higher risk speculation that there may be a maturation in the markets in the future that will allow investors to liquidate their holdings.</p>
                             <p>Whilst efforts have been made to ensure that the data and other information in this report is accurate, no warranty as such can be given and, additionally, information applicable to the market is subject to change.</p>

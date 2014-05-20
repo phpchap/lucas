@@ -3,8 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="2d5c6b87-9e57-4fb4-ad85-c12493740913" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/app/views/contactUs.blade.php" afterPath="$PROJECT_DIR$/laravel/app/views/contactUs.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/app/views/layouts/master.blade.php" afterPath="$PROJECT_DIR$/laravel/app/views/layouts/master.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/app/views/includes/nav.blade.php" afterPath="$PROJECT_DIR$/laravel/app/views/includes/nav.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/app/views/disclaimer.blade.php" afterPath="$PROJECT_DIR$/laravel/app/views/disclaimer.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/app/views/home.blade.php" afterPath="$PROJECT_DIR$/laravel/app/views/home.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/app/views/investInDiamonds.blade.php" afterPath="$PROJECT_DIR$/laravel/app/views/investInDiamonds.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/app/views/investInGermanProperty.blade.php" afterPath="$PROJECT_DIR$/laravel/app/views/investInGermanProperty.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/app/views/investInGold.blade.php" afterPath="$PROJECT_DIR$/laravel/app/views/investInGold.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/app/views/investInWaterRights.blade.php" afterPath="$PROJECT_DIR$/laravel/app/views/investInWaterRights.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/app/routes.php" afterPath="$PROJECT_DIR$/laravel/app/routes.php" />
     </list>
     <ignored path="lucasgeorge.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,35 +32,30 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="master.blade.php" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="investInWaterRights.blade.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel/app/views/investInWaterRights.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="14" selection-start="60" selection-end="60" vertical-scroll-proportion="-1.7727273" vertical-offset="0" max-vertical-offset="1911">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.blade.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel/app/views/home.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="72" column="50" selection-start="2712" selection-end="2712" vertical-scroll-proportion="-6.4680853" vertical-offset="632" max-vertical-offset="1521">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="master.blade.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/laravel/app/views/layouts/master.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="71" column="64" selection-start="3532" selection-end="3532" vertical-scroll-proportion="-6.212766" vertical-offset="631" max-vertical-offset="1703">
+            <state line="104" column="0" selection-start="4230" selection-end="4230" vertical-scroll-proportion="0.59931505" vertical-offset="827" max-vertical-offset="1703">
               <folding>
-                <element signature="n#style#0;n#h1#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <marker date="1400618613005" expanded="true" signature="1491:1504" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="nav.blade.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/laravel/app/views/includes/nav.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="70" selection-start="499" selection-end="499" vertical-scroll-proportion="0.17067833" vertical-offset="0" max-vertical-offset="914">
-              <folding>
-                <element signature="n#style#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contactUs.blade.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/laravel/app/views/contactUs.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="43" column="43" selection-start="1274" selection-end="1274" vertical-scroll-proportion="-25.40909" vertical-offset="0" max-vertical-offset="936">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -64,16 +64,43 @@
       <file leaf-file-name="disclaimer.blade.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/laravel/app/views/disclaimer.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="0" selection-start="785" selection-end="785" vertical-scroll-proportion="-6.5866666" vertical-offset="0" max-vertical-offset="806">
+            <state line="11" column="14" selection-start="213" selection-end="213" vertical-scroll-proportion="-1.9066666" vertical-offset="0" max-vertical-offset="806">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HomeController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/laravel/app/controllers/HomeController.php">
+      <file leaf-file-name="investInGold.blade.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel/app/views/investInGold.blade.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1456">
+            <state line="3" column="0" selection-start="46" selection-end="60" vertical-scroll-proportion="-1.7727273" vertical-offset="0" max-vertical-offset="2522">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contactUs.blade.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel/app/views/contactUs.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="14" selection-start="213" selection-end="213" vertical-scroll-proportion="-6.5" vertical-offset="0" max-vertical-offset="936">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="investInGermanProperty.blade.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel/app/views/investInGermanProperty.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="15" selection-start="61" selection-end="61" vertical-scroll-proportion="-1.7727273" vertical-offset="0" max-vertical-offset="1859">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="investInDiamonds.blade.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/laravel/app/views/investInDiamonds.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="14" selection-start="60" selection-end="60" vertical-scroll-proportion="-1.7727273" vertical-offset="0" max-vertical-offset="7449">
               <folding />
             </state>
           </provider>
@@ -97,22 +124,22 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/laravel/app/routes.php" />
         <option value="$PROJECT_DIR$/laravel/app/controllers/HomeController.php" />
         <option value="$PROJECT_DIR$/laravel/app/views/includes/Form.blade.php" />
         <option value="$PROJECT_DIR$/laravel/app/views/includes/contactForm.blade.php" />
         <option value="$PROJECT_DIR$/laravel/public/js/googlemaps.js" />
         <option value="$PROJECT_DIR$/laravel/public/js/theme.js" />
         <option value="$PROJECT_DIR$/laravel/public/css/style.min.css" />
-        <option value="$PROJECT_DIR$/laravel/app/views/investInDiamonds.blade.php" />
-        <option value="$PROJECT_DIR$/laravel/app/views/investInGold.blade.php" />
-        <option value="$PROJECT_DIR$/laravel/app/views/investInGermanProperty.blade.php" />
-        <option value="$PROJECT_DIR$/laravel/app/views/investInWaterRights.blade.php" />
-        <option value="$PROJECT_DIR$/laravel/app/views/home.blade.php" />
-        <option value="$PROJECT_DIR$/laravel/app/views/disclaimer.blade.php" />
-        <option value="$PROJECT_DIR$/laravel/app/views/contactUs.blade.php" />
         <option value="$PROJECT_DIR$/laravel/app/views/layouts/master.blade.php" />
         <option value="$PROJECT_DIR$/laravel/app/views/includes/nav.blade.php" />
+        <option value="$PROJECT_DIR$/laravel/app/routes.php" />
+        <option value="$PROJECT_DIR$/laravel/app/views/investInGermanProperty.blade.php" />
+        <option value="$PROJECT_DIR$/laravel/app/views/investInDiamonds.blade.php" />
+        <option value="$PROJECT_DIR$/laravel/app/views/investInGold.blade.php" />
+        <option value="$PROJECT_DIR$/laravel/app/views/contactUs.blade.php" />
+        <option value="$PROJECT_DIR$/laravel/app/views/disclaimer.blade.php" />
+        <option value="$PROJECT_DIR$/laravel/app/views/investInWaterRights.blade.php" />
+        <option value="$PROJECT_DIR$/laravel/app/views/home.blade.php" />
       </list>
     </option>
   </component>
@@ -338,17 +365,17 @@
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18809524" sideWeight="0.59539473" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18809524" sideWeight="0.59539473" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="MagicentoScripts" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="MagicentoScripts" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -405,44 +432,83 @@
         <state line="772" column="15" selection-start="14154" selection-end="14154" vertical-scroll-proportion="0.0" vertical-offset="10036" max-vertical-offset="10166" />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/app/views/includes/nav.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="6" selection-start="1457" selection-end="1457" vertical-scroll-proportion="0.3129103" vertical-offset="0" max-vertical-offset="914">
+          <folding>
+            <element signature="n#style#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/laravel/app/controllers/HomeController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1456">
+        <state line="19" column="46" selection-start="392" selection-end="392" vertical-scroll-proportion="0.2702407" vertical-offset="0" max-vertical-offset="1456">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/app/views/disclaimer.blade.php">
+    <entry file="file://$PROJECT_DIR$/laravel/app/routes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="0" selection-start="785" selection-end="785" vertical-scroll-proportion="-6.5866666" vertical-offset="0" max-vertical-offset="806">
+        <state line="32" column="55" selection-start="981" selection-end="981" vertical-scroll-proportion="0.32713348" vertical-offset="0" max-vertical-offset="914">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/laravel/app/views/contactUs.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="43" column="43" selection-start="1274" selection-end="1274" vertical-scroll-proportion="-25.40909" vertical-offset="0" max-vertical-offset="936">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-          </folding>
+        <state line="11" column="14" selection-start="213" selection-end="213" vertical-scroll-proportion="-6.5" vertical-offset="0" max-vertical-offset="936">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/app/views/disclaimer.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="14" selection-start="213" selection-end="213" vertical-scroll-proportion="-1.9066666" vertical-offset="0" max-vertical-offset="806">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/app/views/investInDiamonds.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="14" selection-start="60" selection-end="60" vertical-scroll-proportion="-1.7727273" vertical-offset="0" max-vertical-offset="7449">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/app/views/investInGermanProperty.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="15" selection-start="61" selection-end="61" vertical-scroll-proportion="-1.7727273" vertical-offset="0" max-vertical-offset="1859">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/app/views/investInGold.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="0" selection-start="46" selection-end="60" vertical-scroll-proportion="-1.7727273" vertical-offset="0" max-vertical-offset="2522">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/app/views/investInWaterRights.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="14" selection-start="60" selection-end="60" vertical-scroll-proportion="-1.7727273" vertical-offset="0" max-vertical-offset="1911">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/app/views/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="72" column="50" selection-start="2712" selection-end="2712" vertical-scroll-proportion="-6.4680853" vertical-offset="632" max-vertical-offset="1521">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/laravel/app/views/layouts/master.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="64" selection-start="3532" selection-end="3532" vertical-scroll-proportion="-6.212766" vertical-offset="631" max-vertical-offset="1703">
+        <state line="104" column="0" selection-start="4230" selection-end="4230" vertical-scroll-proportion="0.59931505" vertical-offset="827" max-vertical-offset="1703">
           <folding>
-            <element signature="n#style#0;n#h1#0;n#a#1;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#header#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <marker date="1400618613005" expanded="true" signature="1491:1504" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/app/views/includes/nav.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="70" selection-start="499" selection-end="499" vertical-scroll-proportion="0.17067833" vertical-offset="0" max-vertical-offset="914">
-          <folding>
-            <element signature="n#style#0;n#ul#0;n#div#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>

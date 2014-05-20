@@ -1,7 +1,7 @@
 @extends('layouts.master')
 
 @section('title')
-London DE Limited - Invest in German Property
+Branson-Ridley - Invest in German Property
 @stop
 
 @section('description')
@@ -9,7 +9,7 @@ Invest in German Property
 @stop
 
 @section('author')
-London DE
+Branson-Ridley
 @stop
 
 @section('keywords')
