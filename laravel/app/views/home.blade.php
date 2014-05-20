@@ -52,7 +52,11 @@ $waterUrl   = action('HomeController@investInWaterRights');
                         </div>
                         <div class="span4">
                             <h2 class="title"><a href="<?php echo $diamondUrl; ?>">Invest in Diamonds</a></h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer eu nisi sit amet sem rutrum scelerisque.</p>
+                            <p>The diamond market has grown by an average of
+                                15% year on year for the past 60 years. <a
+                                    href="<?php echo $diamondUrl; ?>"
+                                    style="background: #000000">find
+                                    out more.</a> </p>
                         </div>
                         <div class="span2">
                             <a href="<?php echo $goldUrl; ?>"><img class="img-polaroid"
@@ -60,7 +64,12 @@ $waterUrl   = action('HomeController@investInWaterRights');
                         </div>
                         <div class="span4">
                             <h2 class="title"><a href="<?php echo $goldUrl; ?>">Invest in Gold</a></h2>
-                            <p>In scelerisque convallis nisi non feugiat. In tempor magna id viverra pharetra. Nulla eu lectus sit amet sem fringilla commodo eu molestie velit</p>
+                            <p>Gold has increased in value by over 3,
+                                700% in the past 40 years and remains one of
+                                the best asset classes to diversify any
+                                portfolio. <a style="background: #000000"
+                                              href="<?php echo $goldUrl; ?>">
+                                    find out more.</a> </p>
                         </div>
                     </div>
                     <hr>
@@ -71,15 +80,26 @@ $waterUrl   = action('HomeController@investInWaterRights');
                         </div>
                         <div class="span4">
                             <h2 class="title"><a href="<?php echo $germanUrl; ?>">Invest in German Property</a></h2>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer eu nisi sit amet sem rutrum scelerisque.</p>
+                            <p>German Freehold Property prices have not
+                                experienced the 'bubble' and have lagged
+                                behind their European neighbours. <a
+                                    style="background: #000000" href="<?php
+                                echo $germanUrl; ?>">find out more.</a> </p>
                         </div>
                         <div class="span2">
                             <a href="<?php echo $waterUrl; ?>"><img class="img-polaroid"
                                  src="/img/dam.jpg"/></a>
                         </div>
                         <div class="span4">
-                            <h2 class="title"><a href="<?php echo $waterUrl; ?>">Invest in Water Rights</a></h2>
-                            <p>In scelerisque convallis nisi non feugiat. In tempor magna id viverra pharetra. Nulla eu lectus sit amet sem fringilla commodo eu molestie velit</p>
+                            <h2 class="title"><a style="background: #000000"
+                                                 href="<?php echo $waterUrl; ?>">Invest in Water Rights</a></h2>
+                            <p>With an annual value of over $500(US) billion,
+                                Water Rights Trading is one of the best kept
+                                secrets of the global financial markets. <a
+                                    style="background: #000000"
+                                    href="<?php echo $waterUrl; ?>">find
+                                    out more.</a>
+                            </p>
                         </div>
                     </div>
                     <hr>

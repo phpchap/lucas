@@ -46,8 +46,6 @@ Diamonds, Gold, German Property, Water Rights, Investment
                             <p>0044 (0)207 859 4754</p>
                             <p>Registered in England &amp; Wales</p>
                             <p>Company Registration Number: 8806847</p>
-                            <p>VAT Reg No: </p>
-                            <p>Export Licence No: </p>
                         </div>
                     </div>
                     <div class="row-fluid">
