@@ -46,6 +46,15 @@ $waterUrl   = action('HomeController@investInWaterRights');
             <div class="row-fluid">
                 <div class="span12 content">
                     <div class="row-fluid">
+                        <div class="span12">
+                            <p>LDE is a London based commodities brokerage,
+                            specialising in high-performance,
+                                medium-risk alternative investment vehicles.
+                                We can draw upon the wealth of experience
+                                within our team, with backgrounds in commodity, equity, bond and financial advisory markets.  With all of our products our aim is deliver wholesale, institutional prices to private, retail clients.</p>
+                        </div>
+                    </div>
+                    <div class="row-fluid">
                         <div class="span2">
                             <a href="<?php echo $diamondUrl; ?>"><img class="img-polaroid"
                                  src="/img/diamond.jpg"/></a>
