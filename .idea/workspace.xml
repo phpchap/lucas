@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d5c6b87-9e57-4fb4-ad85-c12493740913" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/app/views/home.blade.php" afterPath="$PROJECT_DIR$/laravel/app/views/home.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="lucasgeorge.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,17 +24,7 @@
     <favorites_list name="lucasgeorge" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="home.blade.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/laravel/app/views/home.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="98" column="78" selection-start="4339" selection-end="4339" vertical-scroll-proportion="0.88621444" vertical-offset="464" max-vertical-offset="1521">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -183,6 +173,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../branson" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -258,6 +249,13 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/laravel/app/views/home.blade.php">
       <provider selected="true" editor-type-id="text-editor">
+        <state line="98" column="78" selection-start="4339" selection-end="4339" vertical-scroll-proportion="0.0" vertical-offset="464" max-vertical-offset="1521">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/app/views/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
         <state line="80" column="111" selection-start="3298" selection-end="3298" vertical-scroll-proportion="0.0" vertical-offset="1040" max-vertical-offset="1248">
           <folding />
         </state>
@@ -294,9 +292,7 @@
     <entry file="file://$PROJECT_DIR$/laravel/app/views/investInWaterRights.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="47" column="53" selection-start="1444" selection-end="1444" vertical-scroll-proportion="0.0" vertical-offset="611" max-vertical-offset="1820">
-          <folding>
-            <element signature="n#style#0;n#blockquote#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -394,9 +390,7 @@
     <entry file="file://$PROJECT_DIR$/laravel/app/views/investInWaterRights.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="44" column="76" selection-start="1169" selection-end="1169" vertical-scroll-proportion="0.49056605" vertical-offset="130" max-vertical-offset="1911">
-          <folding>
-            <element signature="n#style#0;n#blockquote#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#section#1;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -409,7 +403,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/laravel/app/views/home.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="98" column="78" selection-start="4339" selection-end="4339" vertical-scroll-proportion="0.88621444" vertical-offset="464" max-vertical-offset="1521">
+        <state line="91" column="45" selection-start="3828" selection-end="3828" vertical-scroll-proportion="0.7866521" vertical-offset="464" max-vertical-offset="1521">
           <folding />
         </state>
       </provider>
