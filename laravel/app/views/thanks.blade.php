@@ -63,6 +63,8 @@ Diamonds, Gold, German Property, Water Rights, Investment
     </div>
 </section>
 @stop
+
+@section('before_body_end')
 <!-- Google Code for Enquiry Form Conversion Page -->
 <script type="text/javascript">
     /* <![CDATA[ */
@@ -81,3 +83,4 @@ Diamonds, Gold, German Property, Water Rights, Investment
         <img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/972295557/?label=pRIUCIvk6AgQhZvQzwM&amp;guid=ON&amp;script=0"/>
     </div>
 </noscript>
+@stop

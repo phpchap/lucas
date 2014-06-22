@@ -121,5 +121,6 @@
 ga('create', 'UA-50747301-1', 'londonde.co.uk');
 ga('send', 'pageview');
 </script>
+@yield('before_body_end')
 </body>
 </html>
