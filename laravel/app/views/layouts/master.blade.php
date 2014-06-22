@@ -40,7 +40,7 @@
                     // post it..
                     $.post("<?php echo url('/contact'); ?>", { name: d_name, email: d_email, comment: d_comment, phone: d_phone }, function (data, status) {
                         if (status == "success") {
-                            $("#commentForm").html("<h2>Thanks for sending us a message, we will be in touch soon</h2>");
+                            window.location.replace("/thanks");
                         } else {
                             $("#commentForm").html("<h2>There was an error sending the message, please try again</h2>");
                         }

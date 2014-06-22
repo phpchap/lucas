@@ -92,6 +92,20 @@ class HomeController extends BaseController
     }
 
     /**
+     * thanks page
+     *
+     * @return mixed
+     */
+    public function thanks()
+    {
+        return View::make('thanks')->nest(
+            'nav',
+            'includes.nav',
+            array('page' => action('HomeController@thanks'))
+        );
+    }
+
+    /**
      * disclaimer page
      *
      * @return mixed

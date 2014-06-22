@@ -29,6 +29,9 @@ Route::any('/invest-in-water-rights', 'HomeController@investInWaterRights');
 // contact us
 Route::any('/contact-us', 'HomeController@contactUs');
 
+// thanks
+Route::any('/thanks', 'HomeController@thanks');
+
 // disclaimer
 Route::any('/disclaimer', 'HomeController@disclaimer');
 
@@ -37,8 +40,6 @@ Route::any('/contact', function(){
 
     // grab the input 
     $input = Input::all();
-
-        error_log(print_r($input , true));
 
     // build the email details
     $name   = $input['name'];
@@ -60,7 +61,8 @@ Route::any('/contact', function(){
 
     // send the email
     $sent = $client->sendEmail(array('Source' => 'philip@thediamondexchange.co.uk', 
-                                     'Destination' => array( 'ToAddresses' => array('philip@thediamondexchange.co.uk')),
+                                     // 'Destination' => array( 'ToAddresses' => array('philip@thediamondexchange.co.uk')),
+                                     'Destination' => array( 'ToAddresses' => array('phpchap@gmail.com')),
                                      'Message' => array('Subject' => array('Data' => 'From London DE Website'),
                                      'Body' => array('Html' => array('Data' => $msg)))));    
 
