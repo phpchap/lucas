@@ -61,8 +61,7 @@ Route::any('/contact', function(){
 
     // send the email
     $sent = $client->sendEmail(array('Source' => 'philip@thediamondexchange.co.uk', 
-                                     // 'Destination' => array( 'ToAddresses' => array('philip@thediamondexchange.co.uk')),
-                                     'Destination' => array( 'ToAddresses' => array('phpchap@gmail.com')),
+                                     'Destination' => array( 'ToAddresses' => array('philip@thediamondexchange.co.uk')),
                                      'Message' => array('Subject' => array('Data' => 'From London DE Website'),
                                      'Body' => array('Html' => array('Data' => $msg)))));    
 
