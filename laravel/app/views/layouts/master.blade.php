@@ -69,7 +69,7 @@
                             <span class="icon-bar"></span>
                         </a>
                         <a class="brand" href="javascript:void(0)">
-                            <h1 id="logo">London DE</h1>
+                            <h1 id="logo"><img class="img-responsive" src="/img/logo.png"/></h1>
                         </a>
                         @yield('nav')
                     </div>

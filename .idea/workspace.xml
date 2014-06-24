@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d5c6b87-9e57-4fb4-ad85-c12493740913" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/public/img/logo.png" afterPath="$PROJECT_DIR$/laravel/public/img/logo.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/app/views/layouts/master.blade.php" afterPath="$PROJECT_DIR$/laravel/app/views/layouts/master.blade.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/app/views/thanks.blade.php" afterPath="$PROJECT_DIR$/laravel/app/views/thanks.blade.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/laravel/public/css/style.min.css" afterPath="$PROJECT_DIR$/laravel/public/css/style.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="lucasgeorge.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,89 +27,7 @@
     <favorites_list name="lucasgeorge" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="master.blade.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/laravel/app/views/layouts/master.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="123" column="8" selection-start="5155" selection-end="5170" vertical-scroll-proportion="-24.0" vertical-offset="1071" max-vertical-offset="1703">
-              <folding>
-                <marker date="1403458031820" expanded="true" signature="1491:1504" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HomeController.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/laravel/app/controllers/HomeController.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="97" column="7" selection-start="2012" selection-end="2012" vertical-scroll-proportion="-11.590909" vertical-offset="1006" max-vertical-offset="1638">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="routes.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/laravel/app/routes.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="37" selection-start="1807" selection-end="1807" vertical-scroll-proportion="-25.772728" vertical-offset="135" max-vertical-offset="910">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.blade.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/laravel/app/views/home.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="71" column="26" selection-start="2652" selection-end="2652" vertical-scroll-proportion="-11.136364" vertical-offset="678" max-vertical-offset="1599">
-              <folding>
-                <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="thanks.blade.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/laravel/app/views/thanks.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="85" column="5" selection-start="2850" selection-end="2850" vertical-scroll-proportion="0.89499193" vertical-offset="551" max-vertical-offset="1183">
-              <folding>
-                <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#noscript#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="contactUs.blade.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/laravel/app/views/contactUs.blade.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="0" selection-start="218" selection-end="218" vertical-scroll-proportion="-4.3636365" vertical-offset="73" max-vertical-offset="910">
-              <folding>
-                <marker date="1400616205273" expanded="true" signature="402:2038" placeholder="..." />
-                <marker date="1400616205273" expanded="true" signature="430:2027" placeholder="..." />
-                <marker date="1400616205273" expanded="false" signature="466:483" placeholder="..." />
-                <marker date="1400616205273" expanded="true" signature="484:2016" placeholder="..." />
-                <marker date="1400616205273" expanded="true" signature="520:709" placeholder="..." />
-                <marker date="1400616205273" expanded="true" signature="564:690" placeholder="..." />
-                <marker date="1400616205273" expanded="true" signature="593:667" placeholder="..." />
-                <marker date="1400616205273" expanded="true" signature="745:2001" placeholder="..." />
-                <marker date="1400616205273" expanded="true" signature="790:1982" placeholder="..." />
-                <marker date="1400616205273" expanded="true" signature="834:1532" placeholder="..." />
-                <marker date="1400616205273" expanded="true" signature="878:1015" placeholder="..." />
-                <marker date="1400616205273" expanded="true" signature="1059:1505" placeholder="..." />
-                <marker date="1400616205273" expanded="true" signature="1576:1959" placeholder="..." />
-                <marker date="1400616205273" expanded="false" signature="1637:1657" placeholder="..." />
-                <marker date="1400616205273" expanded="true" signature="1658:1932" placeholder="..." />
-                <marker date="1400616205273" expanded="true" signature="1710:1901" placeholder="..." />
-                <marker date="1400616205273" expanded="true" signature="1763:1866" placeholder="..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -131,7 +51,6 @@
         <option value="$PROJECT_DIR$/laravel/app/views/includes/contactForm.blade.php" />
         <option value="$PROJECT_DIR$/laravel/public/js/googlemaps.js" />
         <option value="$PROJECT_DIR$/laravel/public/js/theme.js" />
-        <option value="$PROJECT_DIR$/laravel/public/css/style.min.css" />
         <option value="$PROJECT_DIR$/laravel/app/views/investInDiamonds.blade.php" />
         <option value="$PROJECT_DIR$/laravel/app/views/investInGold.blade.php" />
         <option value="$PROJECT_DIR$/laravel/app/views/investInGermanProperty.blade.php" />
@@ -141,8 +60,9 @@
         <option value="$PROJECT_DIR$/laravel/app/views/index.php" />
         <option value="$PROJECT_DIR$/laravel/app/controllers/HomeController.php" />
         <option value="$PROJECT_DIR$/laravel/app/routes.php" />
-        <option value="$PROJECT_DIR$/laravel/app/views/layouts/master.blade.php" />
         <option value="$PROJECT_DIR$/laravel/app/views/thanks.blade.php" />
+        <option value="$PROJECT_DIR$/laravel/app/views/layouts/master.blade.php" />
+        <option value="$PROJECT_DIR$/laravel/public/css/style.min.css" />
       </list>
     </option>
   </component>
@@ -212,94 +132,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lucasgeorge" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lucas" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="laravel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lucasgeorge" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lucas" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="laravel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lucasgeorge" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lucas" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="laravel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="views" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="layouts" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lucasgeorge" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lucas" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="laravel" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="app" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="controllers" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -344,14 +176,14 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="-4" width="1368" height="773" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18740849" sideWeight="0.59539473" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.13323572" sideWeight="0.59539473" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="MagicentoScripts" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -360,11 +192,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40460527" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40460527" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -386,20 +218,12 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/laravel/app/views/home.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="98" column="78" selection-start="4339" selection-end="4339" vertical-scroll-proportion="0.0" vertical-offset="464" max-vertical-offset="1521">
-          <folding>
-            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
+        <state line="98" column="78" selection-start="4339" selection-end="4339" vertical-scroll-proportion="0.0" vertical-offset="464" max-vertical-offset="1521" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/laravel/app/views/home.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="80" column="111" selection-start="3298" selection-end="3298" vertical-scroll-proportion="0.0" vertical-offset="1040" max-vertical-offset="1248">
-          <folding>
-            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
+        <state line="80" column="111" selection-start="3298" selection-end="3298" vertical-scroll-proportion="0.0" vertical-offset="1040" max-vertical-offset="1248" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/laravel/public/css/style.min.css">
@@ -429,27 +253,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/laravel/app/views/contactUs.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="78" selection-start="1139" selection-end="1139" vertical-scroll-proportion="0.0" vertical-offset="533" max-vertical-offset="936">
-          <folding>
-            <marker date="1400616205273" expanded="true" signature="402:2038" placeholder="..." />
-            <marker date="1400616205273" expanded="true" signature="430:2027" placeholder="..." />
-            <marker date="1400616205273" expanded="false" signature="466:483" placeholder="..." />
-            <marker date="1400616205273" expanded="true" signature="484:2016" placeholder="..." />
-            <marker date="1400616205273" expanded="true" signature="520:709" placeholder="..." />
-            <marker date="1400616205273" expanded="true" signature="564:690" placeholder="..." />
-            <marker date="1400616205273" expanded="true" signature="593:667" placeholder="..." />
-            <marker date="1400616205273" expanded="true" signature="745:2001" placeholder="..." />
-            <marker date="1400616205273" expanded="true" signature="790:1982" placeholder="..." />
-            <marker date="1400616205273" expanded="true" signature="834:1532" placeholder="..." />
-            <marker date="1400616205273" expanded="true" signature="878:1015" placeholder="..." />
-            <marker date="1400616205273" expanded="true" signature="1059:1505" placeholder="..." />
-            <marker date="1400616205273" expanded="true" signature="1576:1959" placeholder="..." />
-            <marker date="1400616205273" expanded="false" signature="1637:1657" placeholder="..." />
-            <marker date="1400616205273" expanded="true" signature="1658:1932" placeholder="..." />
-            <marker date="1400616205273" expanded="true" signature="1710:1901" placeholder="..." />
-            <marker date="1400616205273" expanded="true" signature="1763:1866" placeholder="..." />
-          </folding>
-        </state>
+        <state line="41" column="78" selection-start="1139" selection-end="1139" vertical-scroll-proportion="0.0" vertical-offset="533" max-vertical-offset="936" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/laravel/app/views/disclaimer.blade.php">
@@ -492,11 +296,6 @@
         <state line="1" column="13" selection-start="17" selection-end="23" vertical-scroll-proportion="0.024561403" vertical-offset="0" max-vertical-offset="10318" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/public/css/style.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="772" column="15" selection-start="14154" selection-end="14154" vertical-scroll-proportion="0.0" vertical-offset="10036" max-vertical-offset="10166" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/laravel/app/views/disclaimer.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="3" column="0" selection-start="46" selection-end="46" vertical-scroll-proportion="0.04328524" vertical-offset="0" max-vertical-offset="901" />
@@ -524,78 +323,46 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/laravel/app/views/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="670" column="40" selection-start="35512" selection-end="35521" vertical-scroll-proportion="0.33333334" vertical-offset="8512" max-vertical-offset="9672">
-          <folding>
-            <marker date="1403456723612" expanded="true" signature="-1:-1" placeholder="..." />
-          </folding>
-        </state>
+        <state line="670" column="40" selection-start="35512" selection-end="35521" vertical-scroll-proportion="0.33333334" vertical-offset="8512" max-vertical-offset="9672" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/laravel/app/views/home.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="71" column="26" selection-start="2652" selection-end="2652" vertical-scroll-proportion="-11.136364" vertical-offset="678" max-vertical-offset="1599">
-          <folding>
-            <element signature="n#style#0;n#a#0;n#p#0;n#div#1;n#div#2;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
+        <state line="71" column="26" selection-start="2652" selection-end="2652" vertical-scroll-proportion="-11.136364" vertical-offset="678" max-vertical-offset="1599" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/laravel/app/views/contactUs.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="0" selection-start="218" selection-end="218" vertical-scroll-proportion="-4.3636365" vertical-offset="73" max-vertical-offset="910">
-          <folding>
-            <marker date="1400616205273" expanded="true" signature="402:2038" placeholder="..." />
-            <marker date="1400616205273" expanded="true" signature="430:2027" placeholder="..." />
-            <marker date="1400616205273" expanded="false" signature="466:483" placeholder="..." />
-            <marker date="1400616205273" expanded="true" signature="484:2016" placeholder="..." />
-            <marker date="1400616205273" expanded="true" signature="520:709" placeholder="..." />
-            <marker date="1400616205273" expanded="true" signature="564:690" placeholder="..." />
-            <marker date="1400616205273" expanded="true" signature="593:667" placeholder="..." />
-            <marker date="1400616205273" expanded="true" signature="745:2001" placeholder="..." />
-            <marker date="1400616205273" expanded="true" signature="790:1982" placeholder="..." />
-            <marker date="1400616205273" expanded="true" signature="834:1532" placeholder="..." />
-            <marker date="1400616205273" expanded="true" signature="878:1015" placeholder="..." />
-            <marker date="1400616205273" expanded="true" signature="1059:1505" placeholder="..." />
-            <marker date="1400616205273" expanded="true" signature="1576:1959" placeholder="..." />
-            <marker date="1400616205273" expanded="false" signature="1637:1657" placeholder="..." />
-            <marker date="1400616205273" expanded="true" signature="1658:1932" placeholder="..." />
-            <marker date="1400616205273" expanded="true" signature="1710:1901" placeholder="..." />
-            <marker date="1400616205273" expanded="true" signature="1763:1866" placeholder="..." />
-          </folding>
-        </state>
+        <state line="13" column="0" selection-start="218" selection-end="218" vertical-scroll-proportion="0.17902543" vertical-offset="0" max-vertical-offset="944" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/laravel/app/controllers/HomeController.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="97" column="7" selection-start="2012" selection-end="2012" vertical-scroll-proportion="-11.590909" vertical-offset="1006" max-vertical-offset="1638">
-          <folding />
-        </state>
+        <state line="97" column="7" selection-start="2012" selection-end="2012" vertical-scroll-proportion="-11.590909" vertical-offset="1006" max-vertical-offset="1638" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/laravel/app/routes.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="37" selection-start="1807" selection-end="1807" vertical-scroll-proportion="-25.772728" vertical-offset="135" max-vertical-offset="910">
+        <state line="63" column="37" selection-start="1807" selection-end="1807" vertical-scroll-proportion="-25.772728" vertical-offset="135" max-vertical-offset="910" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/app/views/thanks.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="85" column="5" selection-start="2850" selection-end="2850" vertical-scroll-proportion="0.9173729" vertical-offset="239" max-vertical-offset="1183" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laravel/public/css/style.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="649" column="25" selection-start="12012" selection-end="12012" vertical-scroll-proportion="0.1146789" vertical-offset="8362" max-vertical-offset="10166">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/laravel/app/views/layouts/master.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="123" column="8" selection-start="5155" selection-end="5170" vertical-scroll-proportion="-24.0" vertical-offset="1071" max-vertical-offset="1703">
+        <state line="71" column="68" selection-start="3478" selection-end="3478" vertical-scroll-proportion="0.33333334" vertical-offset="725" max-vertical-offset="1703">
           <folding>
-            <marker date="1403458031820" expanded="true" signature="1491:1504" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/laravel/app/views/thanks.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="85" column="5" selection-start="2850" selection-end="2850" vertical-scroll-proportion="0.89499193" vertical-offset="551" max-vertical-offset="1183">
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#noscript#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#noscript#0;n#!!top" expanded="true" />
+            <marker date="1403599652123" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
