@@ -46,6 +46,8 @@ Diamonds, Gold, German Property, Water Rights, Investment
                             <p>0044 (0)207 859 4754</p>
                             <p>Registered in England &amp; Wales</p>
                             <p>Company Registration Number: 8806847</p>
+			    <p>VAT Registration Number: 189 947 526</p>
+			    <p>EORI (Economic Operator Registration and Identification) number: GB189947526000</p>
                         </div>
                     </div>
                     <div class="row-fluid">
